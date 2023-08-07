@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>1</key>
+        <dict>
+            <key>type</key>
+            <integer>5</integer>
+            <key>desc</key>
+            <string>skill_5_desc</string>
+            <key>value</key>
+            <double>1</double>
+        </dict>
+        <key>2</key>
+        <dict>
+            <key>type</key>
+            <integer>6</integer>
+            <key>desc</key>
+            <string>skill_6_desc</string>
+            <key>value</key>
+            <double>1</double>
+        </dict>
+        <key>3</key>
+        <dict>
+            <key>type</key>
+            <integer>7</integer>
+            <key>desc</key>
+            <string>skill_7_desc</string>
+            <key>value</key>
+            <double>5</double>
+        </dict>
+    </dict>
+</plist>

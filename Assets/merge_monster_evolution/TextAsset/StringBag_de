@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>mission_1_desc</key>
+        <string>Monster-Entdeckung {0}</string>
+        <key>mission_2_desc</key>
+        <string>Schließe Stufe {0} ab</string>
+        <key>mission_3_desc</key>
+        <string>Schließe {0}-mal eine Stufe ab</string>
+        <key>mission_4_desc</key>
+        <string>Beschwöre Monster</string>
+        <key>mission_5_desc</key>
+        <string>Kombiniere Monster</string>
+        <key>mission_6_desc</key>
+        <string>Aufwertung</string>
+        <key>mission_7_desc</key>
+        <string>Werbung ansehen</string>
+        <key>skill_1_desc</key>
+        <string>Verringert Beschwörungsgeschwindigkeit</string>
+        <key>skill_2_desc</key>
+        <string>Erhöht Beschwörungsplätze</string>
+        <key>passive_1_desc</key>
+        <string>Verringert Beschwörungsgeschwindigkeit</string>
+        <key>passive_2_desc</key>
+        <string>Erhöht Beschwörungsplätze</string>
+        <key>passive_3_desc</key>
+        <string>Erhöht Gegenstandsplätze</string>
+        <key>passive_4_desc</key>
+        <string>Erhöht Angriff</string>
+        <key>passive_5_desc</key>
+        <string>Erhöht Angriffsgeschwindigkeit</string>
+        <key>passive_6_desc</key>
+        <string>Erhöht Bosszeit</string>
+        <key>passive_7_desc</key>
+        <string>Erhöht Beschwörungsklasse</string>
+        <key>passive_8_desc</key>
+        <string>Verringert Abklingzeit von Auto-Beschwörung</string>
+        <key>passive_9_desc</key>
+        <string>Erhöht Angriff 2</string>
+        <key>skill_1_desc</key>
+        <string>-{0} % Beschwörungsgeschwindigkeit</string>
+        <key>skill_2_desc</key>
+        <string>+{0} Beschwörungsplätze</string>
+        <key>skill_3_desc</key>
+        <string>+{0} Gegenstandsplätze</string>
+        <key>skill_4_desc</key>
+        <string>+{0} % Angriff</string>
+        <key>skill_5_desc</key>
+        <string>+{0} % Angriffsgeschwindigkeit</string>
+        <key>skill_6_desc</key>
+        <string>+{0} Sek. Bosszeit</string>
+        <key>skill_8_desc</key>
+        <string>Auto-Beschwört alle {0} Sek.</string>
+        <key>skill_9_desc</key>
+        <string>Erhöht Angriff x {0}</string>
+        <key>message.toomanypets</key>
+        <string>Es gibt zu viele Monster.</string>
+        <key>message.cooltime</key>
+        <string>Noch nicht verfügbar.</string>
+        <key>ui.quitgame</key>
+        <string>Spiel verlassen</string>
+        <key>message.quitgame</key>
+        <string>Möchtest du das Spiel verlassen?</string>
+        <key>message.pushagreement1</key>
+        <string>Ich sage dir Bescheid, wenn ein neues Monster auftaucht.</string>
+        <key>push.offlinetitle</key>
+        <string>OFFLINE-EINKOMMEN</string>
+        <key>push.offlinereward</key>
+        <string>Offline-Einkommen ist voll. Spiele jetzt!</string>
+        <key>push.dailytitle</key>
+        <string>TÄGLICHE BELOHNUNG!</string>
+        <key>push.dailyreward</key>
+        <string>Log dich jetzt für 300 Edelsteine ein.</string>
+        <key>ui.daily.title</key>
+        <string>TÄGLICHE BELOHNUNG!</string>
+        <key>ui.offline.title</key>
+        <string>OFFLINE-EINKOMMEN</string>
+        <key>ui.rating.message</key>
+        <string>Wenn du unser Spiel bewertest, 
+kannst du uns helfen, neue und noch bessere Level zu erstellen!</string>
+        <key>ui.rating.button1</key>
+        <string>OK</string>
+        <key>ui.rating.button2</key>
+        <string>Überspringen</string>
+        <key>ui.ok</key>
+        <string>OK</string>
+        <key>ui.no</key>
+        <string>NEIN</string>
+        <key>ui.cancel</key>
+        <string>NEIN</string>
+        <key>ui.second</key>
+        <string>Sek.</string>
+        <key>ui.auto</key>
+        <string>AUTO</string>
+        <key>ui.x2</key>
+        <string>x3</string>
+        <key>ui.main.x2</key>
+        <string>x2</string>
+        <key>ui.get</key>
+        <string>ERHALTEN</string>
+        <key>ui.continue</key>
+        <string>WEITER</string>
+        <key>ui.infinite</key>
+        <string>∞</string>
+        <key>ui.title.gpgs</key>
+        <string>Google Play-Spieldienste</string>
+        <key>uishop.buysuccess</key>
+        <string>Kauf erfolgreich.</string>
+        <key>uishop.buyfail</key>
+        <string>Kauf fehlgeschlagen.</string>
+        <key>uicommon_finish</key>
+        <string>Danke für’s Spielen.
+Ein neues Update ist geplant.</string>
+        <key>error.message.adnotready</key>
+        <string>Bitte versuche es später erneut.</string>
+        <key>ui.option.restoresuccess</key>
+        <string>Kaufwiederherstellung erfolgreich.</string>
+        <key>ui.option.restorefail</key>
+        <string>Kaufwiederherstellung fehlgeschlagen.</string>
+        <key>ui.collection.title</key>
+        <string>Monster</string>
+        <key>ui.title.option</key>
+        <string>OPTIONEN</string>
+        <key>ui.sound</key>
+        <string>Sound</string>
+        <key>ui.vibration</key>
+        <string>Vibration</string>
+        <key>ui.push</key>
+        <string>Push</string>
+        <key>ui.terms</key>
+        <string>Nutzungsbedingungen</string>
+        <key>ui.privacy</key>
+        <string>Datenschutzrichtlinie</string>
+        <key>ui.language</key>
+        <string>Sprache</string>
+        <key>ui.language.name</key>
+        <string>DEUTSCH</string>
+        <key>ui.moregames</key>
+        <string>Weitere Spiele</string>
+        <key>ui.restorepurchase</key>
+        <string>Kauf wiederherstellen</string>
+        <key>ui.vipenabled</key>
+        <string>Aktiviert</string>
+        <key>ui.vip.noads</key>
+        <string>Keine Werbung</string>
+        <key>ui.upgrade.title</key>
+        <string>AUFWERTUNG</string>
+        <key>ui.upgrade.cell.max</key>
+        <string>MAX</string>
+        <key>ui.levelup.title</key>
+        <string>STUFENAUFSTIEG!</string>
+        <key>ui.newmonster.title</key>
+        <string>Ein neues Monster!</string>
+        <key>ui.clear.title</key>
+        <string>ABGESCHLOSSEN!</string>
+        <key>ui.fail.title</key>
+        <string>FEHLGESCHLAGEN</string>
+        <key>ui.store.title</key>
+        <string>SHOP</string>
+        <key>ui.store.onetime</key>
+        <string>Begrenzt verfügbares Paket</string>
+        <key>ui.store.buycomplete</key>
+        <string>Kauf abschließen</string>
+        <key>ui.collection.epic</key>
+        <string>Episch</string>
+        <key>ui.collection.epicdesc</key>
+        <string>Monster mit einer besonderen Fähigkeit</string>
+        <key>ui.collection.normal</key>
+        <string>Gewöhnlich</string>
+        <key>ui.collection.normaldesc</key>
+        <string>Kombiniere, um ein neues Monster zu entdecken</string>
+        <key>ui.collection.cell.impossible</key>
+        <string>GESPERRT</string>
+        <key>ui.collection.cell.complete</key>
+        <string>Kauf abschließen</string>
+        <key>ui.stage.title</key>
+        <string>Stufe {0}</string>
+        <key>ui.stage.start</key>
+        <string>START</string>
+        <key>ui.stage.recommend</key>
+        <string>Empfohlen</string>
+        <key>ui.stage.attackpower</key>
+        <string>Kampfkraft</string>
+        <key>ui.game.exit</key>
+        <string>Aufgeben</string>
+        <key>ui.stage.ad.power</key>
+        <string>+100 % Angriff</string>
+        <key>ui.stage.ad.speed</key>
+        <string>+40 % Angriffsgeschwindigkeit</string>
+        <key>ui.stage.ad.time</key>
+        <string>+2 Sek. Bosszeit</string>
+        <key>message.notenough.jewel</key>
+        <string>Du brauchst mehr Edelsteine.</string>
+        <key>message.notenough.gold</key>
+        <string>Du brauchst mehr Gold.</string>
+        <key>ui.vip1.title</key>
+        <string>VIP-PAKET #lcoD178FF#rco1#cc</string>
+        <key>ui.vip2.title</key>
+        <string>VIP-PAKET #lcoD178FF#rco2#cc</string>
+        <key>ui.delete.title</key>
+        <string>Wähle ein Monster aus, um es zu entfernen</string>
+        <key>ui.delete.popup</key>
+        <string>Entfernen?</string>
+        <key>ui.gem.popup</key>
+        <string>Wenn du eine Werbung ansiehst, erhöht sich die Menge an kostenlosen Edelsteinen in der nächsten Schatztruhe.</string>
+        <key>ui.gem.max</key>
+        <string>Du hast aktuell die maximale Anzahl kostenloser Edelsteine erreicht.</string>
+        <key>ui.attendance.title</key>
+        <string>Belohnung, weil du heute gespielt hast!</string>
+        <key>ui.dungeon.title</key>
+        <string>DUNGEON</string>
+        <key>ui.dungeon.cell.JEWEL</key>
+        <string>Edelstein-Dungeon</string>
+        <key>ui.dungeon.cell.GOLD</key>
+        <string>Gold-Dungeon</string>
+        <key>ui.dungeon.cell.SUMMON</key>
+        <string>Beschwörungsstein-Dungeon</string>
+        <key>ui.dungeon.desc.JEWEL</key>
+        <string>Du kannst mehr Edelsteine erhalten.</string>
+        <key>ui.dungeon.desc.GOLD</key>
+        <string>Du kannst mehr Gold erhalten.</string>
+        <key>ui.dungeon.desc.SUMMON</key>
+        <string>Du kannst mehr Beschwörungssteine erhalten.</string>
+        <key>ui.dragon.title</key>
+        <string>Drachenprüfungen St. {0}</string>
+        <key>ui.stage.condition</key>
+        <string>Noch nicht verfügbar. (Stufe {0})</string>
+        <key>ui.upgrade.atk2.desc</key>
+        <string>Entfernt dieses Monster und verdoppelt dauerhaft den Angriff aller anderen Monster.</string>
+        <key>ui.upgrade.atk2.nomonster</key>
+        <string>Du besitzt dieses Monster nicht.</string>
+        <key>ui.message.fireball.limit</key>
+        <string>Kann {0} mal pro Stufe benutzt werden.</string>
+        <key>ui.stage.skip</key>
+        <string>Zum Überspringen tippen</string>
+        <key>ui.dragonknight.title</key>
+        <string>Drachenritter</string>
+        <key>ui.dragonknight.summonlevel</key>
+        <string>Beschwörungsstufe</string>
+        <key>ui.dragonknight.desc</key>
+        <string>Je mehr Waffen du kombinierst, desto stärker wird das Resultat.</string>
+        <key>ui.dragonknight.equipment</key>
+        <string>Waffe</string>
+        <key>ui.dragonknight.equip</key>
+        <string>Ausrüsten</string>
+        <key>ui.dragonknight.merge</key>
+        <string>Kombinieren</string>
+        <key>ui.dragonknight.grade</key>
+        <string>Klasse</string>
+        <key>ui.dragonknight.grade.1</key>
+        <string>Gewöhnlich</string>
+        <key>ui.dragonknight.grade.2</key>
+        <string>Ungewöhnlich</string>
+        <key>ui.dragonknight.grade.3</key>
+        <string>Selten</string>
+        <key>ui.dragonknight.grade.4</key>
+        <string>Heroisch</string>
+        <key>ui.dragonknight.grade.5</key>
+        <string>Legendär</string>
+        <key>ui.dragonknight.grade.6</key>
+        <string>Mythisch</string>
+        <key>ui.dragonknight.grade.available</key>
+        <string>Klasse verfügbar</string>
+        <key>ui.dragonknight.info.desc.1</key>
+        <string>Wenn du mehr Waffen beschwörst und kombinierst, kannst du bessere Waffen erhalten.</string>
+        <key>ui.dragonknight.info.desc.2</key>
+        <string>Das Erscheinungsbild des Drachenritters verändert sich je nach Waffenart.</string>
+        <key>ui.dragonknight.info.desc.3</key>
+        <string>Je höher eine Beschwörungsstufe ist, desto größer ist deine Chance auf hochwertige Ausrüstung.</string>
+        <key>ui.redsummonstone</key>
+        <string>Roter Beschwörungsstein</string>
+        <key>push.evening.title</key>
+        <string>Abendliche Unterstützungsbelohnung</string>
+        <key>push.evening.message</key>
+        <string>Log dich jetzt ein, um {0} Waffenbeschwörungen zu erhalten!</string>
+        <key>push.weekend.title</key>
+        <string>Spezialbelohnung für’s Wochenende</string>
+        <key>ui.monsterpass.title</key>
+        <string>Monsterpass</string>
+        <key>ui.monsterpass.description</key>
+        <string>Je mehr du kombinierst, desto besser werden deine Belohnungen!
+Kombiniere weiter, um besondere Belohnungen zu erhalten!</string>
+        <key>ui.monsterpass.season</key>
+        <string>Saison {0}</string>
+        <key>ui.monsterpass.remaintime</key>
+        <string>Verbleibende Saisonzeit</string>
+        <key>ui.monsterpass.buy</key>
+        <string>Monsterpass kaufen</string>
+        <key>ui.shop.dailypackage</key>
+        <string>Tagespaket</string>
+        <key>ui.shop.weeklypackage</key>
+        <string>Wochenpaket</string>
+        <key>ui.shop.monsthlypackage</key>
+        <string>Monatspaket</string>
+        <key>ui.shop.2xbonusevent</key>
+        <string>Doppelter Bonus für den ersten Kauf!</string>
+        <key>marketadd</key>
+        <string>Entwickle deinen Drachenritter!
+Beschwöre exklusive Waffen, um einen supercoolen Drachenritter zu erhalten!</string>
+        <key>ui.growth.unlock</key>
+        <string>Get Elite Rewards</string>
+        <key>ui.growth.title</key>
+        <string>Growth Support</string>
+        <key>ui.growth.stage</key>
+        <string>Stage</string>
+        <key>ui.growth.free</key>
+        <string>Free</string>
+        <key>ui.growth.elite</key>
+        <string>Elite</string>
+        <key>ui.dailyreward.title</key>
+        <string>Playtime Rewards</string>
+        <key>ui.dailyreward.time</key>
+        <string>Play Time Today</string>
+        <key>ui.ranking.title</key>
+        <string>Ranking</string>
+        <key>ui.ranking.stage</key>
+        <string>Stage</string>
+        <key>ui.ranking.group</key>
+        <string>Group</string>
+        <key>ui.nickname.desc</key>
+        <string>Please enter your nickname.</string>
+        <key>ui.nickname.fail</key>
+        <string>Invalid nickname
+You can enter from 2~8 characters, excluding special characters.</string>
+        <key>ui.network.fail</key>
+        <string>Network is unstable. \nPlease try again later.</string>
+        <key>.</key>
+        <string></string>
+    </dict>
+</plist>

@@ -1,0 +1,1214 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e6fdc4955e942f483f752758bc100bd, type: 3}
+  m_Name: level_data
+  m_EditorClassIdentifier: 
+  AnimalLevelData: {fileID: 11400000, guid: b13dca3edc4414403a6a15a625884888, type: 2}
+  levels:
+  - name: 1 | ecount:2 | hp:56 | dmg:14 | atk_dur:2.666667 | move_spd:6
+    enemies:
+    - animal_type: 0
+      evolution: 0
+    - animal_type: 1
+      evolution: 0
+  - name: 2 | ecount:2 | hp:134 | dmg:20 | atk_dur:2.666667 | move_spd:6
+    enemies:
+    - animal_type: 0
+      evolution: 1
+    - animal_type: 0
+      evolution: 0
+  - name: 3 | ecount:3 | hp:120 | dmg:18 | atk_dur:4 | move_spd:9
+    enemies:
+    - animal_type: 0
+      evolution: 0
+    - animal_type: 0
+      evolution: 0
+    - animal_type: 0
+      evolution: 0
+  - name: 4 | ecount:3 | hp:118 | dmg:32 | atk_dur:4 | move_spd:9
+    enemies:
+    - animal_type: 1
+      evolution: 1
+    - animal_type: 0
+      evolution: 0
+    - animal_type: 0
+      evolution: 0
+  - name: 5 | ecount:2 | hp:132 | dmg:34 | atk_dur:2.666667 | move_spd:6
+    enemies:
+    - animal_type: 1
+      evolution: 1
+    - animal_type: 0
+      evolution: 1
+  - name: 6 | ecount:1 | hp:224 | dmg:34 | atk_dur:1.333333 | move_spd:3
+    enemies:
+    - animal_type: 0
+      evolution: 2
+  - name: 7 | ecount:2 | hp:130 | dmg:52 | atk_dur:2.666667 | move_spd:6
+    enemies:
+    - animal_type: 1
+      evolution: 2
+    - animal_type: 0
+      evolution: 0
+  - name: 8 | ecount:3 | hp:224 | dmg:66 | atk_dur:4 | move_spd:9
+    enemies:
+    - animal_type: 1
+      evolution: 2
+    - animal_type: 0
+      evolution: 1
+    - animal_type: 0
+      evolution: 0
+  - name: 9 | ecount:3 | hp:326 | dmg:130 | atk_dur:4 | move_spd:9
+    enemies:
+    - animal_type: 1
+      evolution: 3
+    - animal_type: 1
+      evolution: 0
+    - animal_type: 0
+      evolution: 1
+  - name: 10 | ecount:4 | hp:940 | dmg:142 | atk_dur:5.333333 | move_spd:12
+    enemies:
+    - animal_type: 0
+      evolution: 3
+    - animal_type: 0
+      evolution: 1
+    - animal_type: 0
+      evolution: 1
+    - animal_type: 0
+      evolution: 2
+  - name: 11 | ecount:3 | hp:826 | dmg:336 | atk_dur:4 | move_spd:9
+    enemies:
+    - animal_type: 1
+      evolution: 2
+    - animal_type: 1
+      evolution: 4
+    - animal_type: 0
+      evolution: 2
+  - name: 12 | ecount:4 | hp:1652 | dmg:280 | atk_dur:5.333333 | move_spd:12
+    enemies:
+    - animal_type: 0
+      evolution: 4
+    - animal_type: 1
+      evolution: 2
+    - animal_type: 0
+      evolution: 1
+    - animal_type: 0
+      evolution: 2
+  - name: 13 | ecount:3 | hp:1666 | dmg:676 | atk_dur:4 | move_spd:9
+    enemies:
+    - animal_type: 1
+      evolution: 5
+    - animal_type: 0
+      evolution: 2
+    - animal_type: 0
+      evolution: 2
+  - name: 14 | ecount:3 | hp:2132 | dmg:476 | atk_dur:4 | move_spd:9
+    enemies:
+    - animal_type: 0
+      evolution: 5
+    - animal_type: 1
+      evolution: 1
+    - animal_type: 0
+      evolution: 1
+  - name: 15 | ecount:2 | hp:2224 | dmg:1482 | atk_dur:2.666667 | move_spd:6
+    enemies:
+    - animal_type: 1
+      evolution: 6
+    - animal_type: 0
+      evolution: 2
+  - name: 16 | ecount:4 | hp:6292 | dmg:1190 | atk_dur:5.333333 | move_spd:12
+    enemies:
+    - animal_type: 1
+      evolution: 3
+    - animal_type: 0
+      evolution: 6
+    - animal_type: 1
+      evolution: 1
+    - animal_type: 1
+      evolution: 1
+  - name: 17 | ecount:3 | hp:6448 | dmg:2068 | atk_dur:4 | move_spd:9
+    enemies:
+    - animal_type: 1
+      evolution: 7
+    - animal_type: 0
+      evolution: 2
+    - animal_type: 0
+      evolution: 2
+  - name: 18 | ecount:3 | hp:16568 | dmg:2086 | atk_dur:4 | move_spd:9
+    enemies:
+    - animal_type: 0
+      evolution: 7
+    - animal_type: 0
+      evolution: 3
+    - animal_type: 0
+      evolution: 0
+  - name: 19 | ecount:2 | hp:16528 | dmg:8080 | atk_dur:2.666667 | move_spd:6
+    enemies:
+    - animal_type: 1
+      evolution: 8
+    - animal_type: 0
+      evolution: 3
+  - name: 20 | ecount:2 | hp:38216 | dmg:4108 | atk_dur:2.666667 | move_spd:6
+    enemies:
+    - animal_type: 0
+      evolution: 8
+    - animal_type: 1
+      evolution: 3
+  - name: 21 | ecount:2 | hp:38528 | dmg:18080 | atk_dur:2.666667 | move_spd:6
+    enemies:
+    - animal_type: 1
+      evolution: 9
+    - animal_type: 0
+      evolution: 3
+  - name: 22 | ecount:3 | hp:90180 | dmg:12092 | atk_dur:4 | move_spd:9
+    enemies:
+    - animal_type: 0
+      evolution: 9
+    - animal_type: 1
+      evolution: 2
+    - animal_type: 1
+      evolution: 2
+  - name: 23 | ecount:3 | hp:200448 | dmg:30068 | atk_dur:4 | move_spd:9
+    enemies:
+    - animal_type: 0
+      evolution: 10
+    - animal_type: 0
+      evolution: 2
+    - animal_type: 0
+      evolution: 2
+  - name: 24 | ecount:3 | hp:84132 | dmg:40034 | atk_dur:4 | move_spd:9
+    enemies:
+    - animal_type: 1
+      evolution: 10
+    - animal_type: 1
+      evolution: 1
+    - animal_type: 0
+      evolution: 1
+  - name: 25 | ecount:3 | hp:400566 | dmg:60100 | atk_dur:4 | move_spd:9
+    enemies:
+    - animal_type: 0
+      evolution: 11
+    - animal_type: 0
+      evolution: 3
+    - animal_type: 1
+      evolution: 1
+  - name: 26 | ecount:2 | hp:169244 | dmg:80186 | atk_dur:2.666667 | move_spd:6
+    enemies:
+    - animal_type: 1
+      evolution: 11
+    - animal_type: 0
+      evolution: 4
+  - name: 27 | ecount:3 | hp:800432 | dmg:120216 | atk_dur:4 | move_spd:9
+    enemies:
+    - animal_type: 0
+      evolution: 12
+    - animal_type: 1
+      evolution: 3
+    - animal_type: 1
+      evolution: 3
+  - name: 28 | ecount:4 | hp:337272 | dmg:160268 | atk_dur:5.333333 | move_spd:12
+    enemies:
+    - animal_type: 1
+      evolution: 12
+    - animal_type: 1
+      evolution: 3
+    - animal_type: 0
+      evolution: 3
+    - animal_type: 0
+      evolution: 3
+  - name: 29 | ecount:4 | hp:1002582 | dmg:150386 | atk_dur:5.333333 | move_spd:12
+    enemies:
+    - animal_type: 0
+      evolution: 13
+    - animal_type: 0
+      evolution: 4
+    - animal_type: 0
+      evolution: 4
+    - animal_type: 0
+      evolution: 1
+  - name: 30 | ecount:5 | hp:420636 | dmg:200096 | atk_dur:6.666667 | move_spd:15
+    enemies:
+    - animal_type: 1
+      evolution: 13
+    - animal_type: 0
+      evolution: 2
+    - animal_type: 0
+      evolution: 1
+    - animal_type: 0
+      evolution: 2
+    - animal_type: 0
+      evolution: 1
+  - name: 31 | ecount:4 | hp:1201134 | dmg:180350 | atk_dur:5.333333 | move_spd:12
+    enemies:
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 1
+      evolution: 4
+    - animal_type: 0
+      evolution: 1
+    - animal_type: 0
+      evolution: 3
+  - name: 32 | ecount:4 | hp:1706488 | dmg:420372 | atk_dur:5.333333 | move_spd:12
+    enemies:
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 0
+      evolution: 4
+    - animal_type: 0
+      evolution: 4
+  - name: 33 | ecount:3 | hp:2104000 | dmg:480000 | atk_dur:4 | move_spd:9
+    enemies:
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 0
+      evolution: 11
+  - name: 34 | ecount:6 | hp:4156000 | dmg:870000 | atk_dur:8 | move_spd:18
+    enemies:
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 0
+      evolution: 10
+    - animal_type: 0
+      evolution: 12
+    - animal_type: 1
+      evolution: 13
+    - animal_type: 1
+      evolution: 12
+  - name: 35 | ecount:6 | hp:4188000 | dmg:820000 | atk_dur:8 | move_spd:18
+    enemies:
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 1
+      evolution: 11
+    - animal_type: 1
+      evolution: 13
+    - animal_type: 0
+      evolution: 11
+    - animal_type: 0
+      evolution: 12
+  - name: 36 | ecount:6 | hp:4872000 | dmg:950000 | atk_dur:8 | move_spd:18
+    enemies:
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 0
+      evolution: 12
+    - animal_type: 0
+      evolution: 13
+    - animal_type: 1
+      evolution: 11
+  - name: 37 | ecount:6 | hp:4130000 | dmg:892000 | atk_dur:8 | move_spd:18
+    enemies:
+    - animal_type: 0
+      evolution: 13
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 1
+      evolution: 13
+    - animal_type: 1
+      evolution: 13
+    - animal_type: 0
+      evolution: 9
+    - animal_type: 0
+      evolution: 13
+  - name: 38 | ecount:6 | hp:4394000 | dmg:822000 | atk_dur:8 | move_spd:18
+    enemies:
+    - animal_type: 0
+      evolution: 13
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 0
+      evolution: 11
+    - animal_type: 0
+      evolution: 9
+    - animal_type: 0
+      evolution: 14
+  - name: 39 | ecount:6 | hp:4336000 | dmg:760000 | atk_dur:8 | move_spd:18
+    enemies:
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 1
+      evolution: 11
+    - animal_type: 1
+      evolution: 11
+    - animal_type: 0
+      evolution: 11
+    - animal_type: 0
+      evolution: 14
+  - name: 40 | ecount:6 | hp:1960000 | dmg:332000 | atk_dur:8 | move_spd:18
+    enemies:
+    - animal_type: 0
+      evolution: 11
+    - animal_type: 0
+      evolution: 11
+    - animal_type: 1
+      evolution: 9
+    - animal_type: 1
+      evolution: 10
+    - animal_type: 0
+      evolution: 13
+    - animal_type: 0
+      evolution: 8
+  - name: 41 | ecount:6 | hp:3536000 | dmg:856000 | atk_dur:8 | move_spd:18
+    enemies:
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 0
+      evolution: 9
+    - animal_type: 0
+      evolution: 8
+  - name: 42 | ecount:6 | hp:3536000 | dmg:856000 | atk_dur:8 | move_spd:18
+    enemies:
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 0
+      evolution: 9
+    - animal_type: 0
+      evolution: 8
+  - name: 43 | ecount:6 | hp:3536000 | dmg:856000 | atk_dur:8 | move_spd:18
+    enemies:
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 0
+      evolution: 9
+    - animal_type: 0
+      evolution: 8
+  - name: 44 | ecount:6 | hp:3536000 | dmg:856000 | atk_dur:8 | move_spd:18
+    enemies:
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 0
+      evolution: 9
+    - animal_type: 0
+      evolution: 8
+  - name: 45 | ecount:6 | hp:3536000 | dmg:856000 | atk_dur:8 | move_spd:18
+    enemies:
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 0
+      evolution: 9
+    - animal_type: 0
+      evolution: 8
+  - name: 46 | ecount:6 | hp:3536000 | dmg:856000 | atk_dur:8 | move_spd:18
+    enemies:
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 0
+      evolution: 9
+    - animal_type: 0
+      evolution: 8
+  - name: 47 | ecount:6 | hp:3536000 | dmg:856000 | atk_dur:8 | move_spd:18
+    enemies:
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 0
+      evolution: 9
+    - animal_type: 0
+      evolution: 8
+  - name: 48 | ecount:6 | hp:3536000 | dmg:856000 | atk_dur:8 | move_spd:18
+    enemies:
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 0
+      evolution: 9
+    - animal_type: 0
+      evolution: 8
+  - name: 49 | ecount:6 | hp:3536000 | dmg:856000 | atk_dur:8 | move_spd:18
+    enemies:
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 0
+      evolution: 9
+    - animal_type: 0
+      evolution: 8
+  - name: 50 | ecount:6 | hp:3536000 | dmg:856000 | atk_dur:8 | move_spd:18
+    enemies:
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 0
+      evolution: 9
+    - animal_type: 0
+      evolution: 8
+  - name: 51 | ecount:6 | hp:3536000 | dmg:856000 | atk_dur:8 | move_spd:18
+    enemies:
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 0
+      evolution: 9
+    - animal_type: 0
+      evolution: 8
+  - name: 52 | ecount:6 | hp:3536000 | dmg:856000 | atk_dur:8 | move_spd:18
+    enemies:
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 0
+      evolution: 9
+    - animal_type: 0
+      evolution: 8
+  - name: 53 | ecount:6 | hp:3536000 | dmg:856000 | atk_dur:8 | move_spd:18
+    enemies:
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 0
+      evolution: 9
+    - animal_type: 0
+      evolution: 8
+  - name: 54 | ecount:6 | hp:3536000 | dmg:856000 | atk_dur:8 | move_spd:18
+    enemies:
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 0
+      evolution: 9
+    - animal_type: 0
+      evolution: 8
+  - name: 55 | ecount:6 | hp:3536000 | dmg:856000 | atk_dur:8 | move_spd:18
+    enemies:
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 0
+      evolution: 9
+    - animal_type: 0
+      evolution: 8
+  - name: 56 | ecount:6 | hp:3536000 | dmg:856000 | atk_dur:8 | move_spd:18
+    enemies:
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 0
+      evolution: 9
+    - animal_type: 0
+      evolution: 8
+  - name: 57 | ecount:6 | hp:3536000 | dmg:856000 | atk_dur:8 | move_spd:18
+    enemies:
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 0
+      evolution: 9
+    - animal_type: 0
+      evolution: 8
+  - name: 58 | ecount:6 | hp:3536000 | dmg:856000 | atk_dur:8 | move_spd:18
+    enemies:
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 0
+      evolution: 9
+    - animal_type: 0
+      evolution: 8
+  - name: 59 | ecount:6 | hp:3536000 | dmg:856000 | atk_dur:8 | move_spd:18
+    enemies:
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 0
+      evolution: 9
+    - animal_type: 0
+      evolution: 8
+  - name: 60 | ecount:6 | hp:3536000 | dmg:856000 | atk_dur:8 | move_spd:18
+    enemies:
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 0
+      evolution: 9
+    - animal_type: 0
+      evolution: 8
+  - name: 61 | ecount:6 | hp:3536000 | dmg:856000 | atk_dur:8 | move_spd:18
+    enemies:
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 0
+      evolution: 9
+    - animal_type: 0
+      evolution: 8
+  - name: 62 | ecount:6 | hp:3536000 | dmg:856000 | atk_dur:8 | move_spd:18
+    enemies:
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 0
+      evolution: 9
+    - animal_type: 0
+      evolution: 8
+  - name: 63 | ecount:6 | hp:3536000 | dmg:856000 | atk_dur:8 | move_spd:18
+    enemies:
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 0
+      evolution: 9
+    - animal_type: 0
+      evolution: 8
+  - name: 64 | ecount:6 | hp:3536000 | dmg:856000 | atk_dur:8 | move_spd:18
+    enemies:
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 0
+      evolution: 9
+    - animal_type: 0
+      evolution: 8
+  - name: 65 | ecount:6 | hp:3536000 | dmg:856000 | atk_dur:8 | move_spd:18
+    enemies:
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 0
+      evolution: 9
+    - animal_type: 0
+      evolution: 8
+  - name: 66 | ecount:6 | hp:3536000 | dmg:856000 | atk_dur:8 | move_spd:18
+    enemies:
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 0
+      evolution: 9
+    - animal_type: 0
+      evolution: 8
+  - name: 67 | ecount:6 | hp:3536000 | dmg:856000 | atk_dur:8 | move_spd:18
+    enemies:
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 0
+      evolution: 9
+    - animal_type: 0
+      evolution: 8
+  - name: 68 | ecount:6 | hp:3536000 | dmg:856000 | atk_dur:8 | move_spd:18
+    enemies:
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 0
+      evolution: 9
+    - animal_type: 0
+      evolution: 8
+  - name: 69 | ecount:6 | hp:3536000 | dmg:856000 | atk_dur:8 | move_spd:18
+    enemies:
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 0
+      evolution: 9
+    - animal_type: 0
+      evolution: 8
+  - name: 70 | ecount:6 | hp:3536000 | dmg:856000 | atk_dur:8 | move_spd:18
+    enemies:
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 0
+      evolution: 9
+    - animal_type: 0
+      evolution: 8
+  - name: 71 | ecount:6 | hp:3536000 | dmg:856000 | atk_dur:8 | move_spd:18
+    enemies:
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 0
+      evolution: 9
+    - animal_type: 0
+      evolution: 8
+  - name: 72 | ecount:6 | hp:3536000 | dmg:856000 | atk_dur:8 | move_spd:18
+    enemies:
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 0
+      evolution: 9
+    - animal_type: 0
+      evolution: 8
+  - name: 73 | ecount:6 | hp:3536000 | dmg:856000 | atk_dur:8 | move_spd:18
+    enemies:
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 0
+      evolution: 9
+    - animal_type: 0
+      evolution: 8
+  - name: 74 | ecount:6 | hp:3536000 | dmg:856000 | atk_dur:8 | move_spd:18
+    enemies:
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 0
+      evolution: 9
+    - animal_type: 0
+      evolution: 8
+  - name: 75 | ecount:6 | hp:3536000 | dmg:856000 | atk_dur:8 | move_spd:18
+    enemies:
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 0
+      evolution: 9
+    - animal_type: 0
+      evolution: 8
+  - name: 76 | ecount:6 | hp:3536000 | dmg:856000 | atk_dur:8 | move_spd:18
+    enemies:
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 0
+      evolution: 9
+    - animal_type: 0
+      evolution: 8
+  - name: 77 | ecount:6 | hp:3536000 | dmg:856000 | atk_dur:8 | move_spd:18
+    enemies:
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 0
+      evolution: 9
+    - animal_type: 0
+      evolution: 8
+  - name: 78 | ecount:6 | hp:3536000 | dmg:856000 | atk_dur:8 | move_spd:18
+    enemies:
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 0
+      evolution: 9
+    - animal_type: 0
+      evolution: 8
+  - name: 79 | ecount:6 | hp:3536000 | dmg:856000 | atk_dur:8 | move_spd:18
+    enemies:
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 0
+      evolution: 9
+    - animal_type: 0
+      evolution: 8
+  - name: 80 | ecount:6 | hp:3536000 | dmg:856000 | atk_dur:8 | move_spd:18
+    enemies:
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 0
+      evolution: 9
+    - animal_type: 0
+      evolution: 8
+  - name: 81 | ecount:6 | hp:3536000 | dmg:856000 | atk_dur:8 | move_spd:18
+    enemies:
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 0
+      evolution: 9
+    - animal_type: 0
+      evolution: 8
+  - name: 82 | ecount:6 | hp:3536000 | dmg:856000 | atk_dur:8 | move_spd:18
+    enemies:
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 0
+      evolution: 9
+    - animal_type: 0
+      evolution: 8
+  - name: 83 | ecount:6 | hp:3536000 | dmg:856000 | atk_dur:8 | move_spd:18
+    enemies:
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 0
+      evolution: 9
+    - animal_type: 0
+      evolution: 8
+  - name: 84 | ecount:6 | hp:3536000 | dmg:856000 | atk_dur:8 | move_spd:18
+    enemies:
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 0
+      evolution: 9
+    - animal_type: 0
+      evolution: 8
+  - name: 85 | ecount:6 | hp:3536000 | dmg:856000 | atk_dur:8 | move_spd:18
+    enemies:
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 0
+      evolution: 9
+    - animal_type: 0
+      evolution: 8
+  - name: 86 | ecount:6 | hp:3536000 | dmg:856000 | atk_dur:8 | move_spd:18
+    enemies:
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 0
+      evolution: 9
+    - animal_type: 0
+      evolution: 8
+  - name: 87 | ecount:6 | hp:3536000 | dmg:856000 | atk_dur:8 | move_spd:18
+    enemies:
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 0
+      evolution: 9
+    - animal_type: 0
+      evolution: 8
+  - name: 88 | ecount:6 | hp:3536000 | dmg:856000 | atk_dur:8 | move_spd:18
+    enemies:
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 0
+      evolution: 9
+    - animal_type: 0
+      evolution: 8
+  - name: 89 | ecount:6 | hp:3536000 | dmg:856000 | atk_dur:8 | move_spd:18
+    enemies:
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 0
+      evolution: 9
+    - animal_type: 0
+      evolution: 8
+  - name: 90 | ecount:6 | hp:3536000 | dmg:856000 | atk_dur:8 | move_spd:18
+    enemies:
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 0
+      evolution: 9
+    - animal_type: 0
+      evolution: 8
+  - name: 91 | ecount:6 | hp:3536000 | dmg:856000 | atk_dur:8 | move_spd:18
+    enemies:
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 0
+      evolution: 9
+    - animal_type: 0
+      evolution: 8
+  - name: 92 | ecount:6 | hp:3536000 | dmg:856000 | atk_dur:8 | move_spd:18
+    enemies:
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 0
+      evolution: 9
+    - animal_type: 0
+      evolution: 8
+  - name: 93 | ecount:6 | hp:3536000 | dmg:856000 | atk_dur:8 | move_spd:18
+    enemies:
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 0
+      evolution: 9
+    - animal_type: 0
+      evolution: 8
+  - name: 94 | ecount:6 | hp:3536000 | dmg:856000 | atk_dur:8 | move_spd:18
+    enemies:
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 0
+      evolution: 9
+    - animal_type: 0
+      evolution: 8
+  - name: 95 | ecount:6 | hp:3536000 | dmg:856000 | atk_dur:8 | move_spd:18
+    enemies:
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 0
+      evolution: 9
+    - animal_type: 0
+      evolution: 8
+  - name: 96 | ecount:6 | hp:3536000 | dmg:856000 | atk_dur:8 | move_spd:18
+    enemies:
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 0
+      evolution: 9
+    - animal_type: 0
+      evolution: 8
+  - name: 97 | ecount:6 | hp:3536000 | dmg:856000 | atk_dur:8 | move_spd:18
+    enemies:
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 0
+      evolution: 9
+    - animal_type: 0
+      evolution: 8
+  - name: 98 | ecount:6 | hp:3536000 | dmg:856000 | atk_dur:8 | move_spd:18
+    enemies:
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 0
+      evolution: 9
+    - animal_type: 0
+      evolution: 8
+  - name: 99 | ecount:6 | hp:3536000 | dmg:856000 | atk_dur:8 | move_spd:18
+    enemies:
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 0
+      evolution: 9
+    - animal_type: 0
+      evolution: 8
+  - name: 100 | ecount:6 | hp:3536000 | dmg:856000 | atk_dur:8 | move_spd:18
+    enemies:
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 0
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 1
+      evolution: 14
+    - animal_type: 0
+      evolution: 9
+    - animal_type: 0
+      evolution: 8

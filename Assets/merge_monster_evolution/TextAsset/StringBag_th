@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>mission_1_desc</key>
+        <string>การค้นพบมอนสเตอร์ {0}</string>
+        <key>mission_2_desc</key>
+        <string>ผ่านด่าน {0}</string>
+        <key>mission_3_desc</key>
+        <string>ผ่านด่าน {0} ครั้ง</string>
+        <key>mission_4_desc</key>
+        <string>อัญเชิญมอนสเตอร์</string>
+        <key>mission_5_desc</key>
+        <string>รวมร่างมอนสเตอร์</string>
+        <key>mission_6_desc</key>
+        <string>ปลาแสงอาทิตย์</string>
+        <key>mission_7_desc</key>
+        <string>ดูโฆษณา</string>
+        <key>skill_1_desc</key>
+        <string>ลด SPD อัญเชิญ</string>
+        <key>skill_2_desc</key>
+        <string>เพิ่มช่องอัญเชิญ</string>
+        <key>passive_1_desc</key>
+        <string>ลด SPD อัญเชิญ</string>
+        <key>passive_2_desc</key>
+        <string>เพิ่มช่องอัญเชิญ</string>
+        <key>passive_3_desc</key>
+        <string>เพิ่มช่องการครอบครอง</string>
+        <key>passive_4_desc</key>
+        <string>เพิ่ม ATK</string>
+        <key>passive_5_desc</key>
+        <string>เพิ่ม ATK SPD</string>
+        <key>passive_6_desc</key>
+        <string>เพิ่มเวลาบอส</string>
+        <key>passive_7_desc</key>
+        <string>เพิ่มเกรดอัญเชิญ</string>
+        <key>passive_8_desc</key>
+        <string>ลดคูลดาวน์อัญเชิญอัตโนมัติ</string>
+        <key>passive_9_desc</key>
+        <string>เพิ่ม ATK 2</string>
+        <key>skill_1_desc</key>
+        <string>-{0}% SPD อัญเชิญ</string>
+        <key>skill_2_desc</key>
+        <string>+{0} ช่องอัญเชิญ</string>
+        <key>skill_3_desc</key>
+        <string>+{0} ช่องการครอบครอง</string>
+        <key>skill_4_desc</key>
+        <string>+{0}% ATK</string>
+        <key>skill_5_desc</key>
+        <string>+{0}% ATK SPD</string>
+        <key>skill_6_desc</key>
+        <string>เวลาบอส +{0}วินาที</string>
+        <key>skill_8_desc</key>
+        <string>อัญเชิญอัตโนมัติทุก ๆ {0} วินาที</string>
+        <key>skill_9_desc</key>
+        <string>เพิ่ม ATK x {0}</string>
+        <key>message.toomanypets</key>
+        <string>มีมอนสเตอร์มากเกินไป</string>
+        <key>message.cooltime</key>
+        <string>ยังใช้ไม่ได้</string>
+        <key>ui.quitgame</key>
+        <string>ออกจากเกม</string>
+        <key>message.quitgame</key>
+        <string>ต้องการออกจากเกมใช่ไหม</string>
+        <key>message.pushagreement1</key>
+        <string>ฉันจะบอกคุณให้รู้เมื่อมอนสเตอร์ใหม่ปรากฏตัวขึ้น</string>
+        <key>push.offlinetitle</key>
+        <string>รางวัลออฟไลน์</string>
+        <key>push.offlinereward</key>
+        <string>รางวัลออฟไลน์เต็มแล้ว เล่นเลย!</string>
+        <key>push.dailytitle</key>
+        <string>รางวัลรายวัน!</string>
+        <key>push.dailyreward</key>
+        <string>ล็อกอินตอนนี้เพื่อรับอัญมณี 300 เม็ด</string>
+        <key>ui.daily.title</key>
+        <string>รางวัลรายวัน!</string>
+        <key>ui.offline.title</key>
+        <string>รางวัลออฟไลน์</string>
+        <key>ui.rating.message</key>
+        <string>ถ้าคุณรีวิวและให้ดาวเกมของเรา 
+ก็จะช่วยให้เราสร้างเลเวลที่เยอะและดียิ่งขึ้น!</string>
+        <key>ui.rating.button1</key>
+        <string>ตกลง</string>
+        <key>ui.rating.button2</key>
+        <string>ข้าม</string>
+        <key>ui.ok</key>
+        <string>ตกลง</string>
+        <key>ui.no</key>
+        <string>ไม่</string>
+        <key>ui.cancel</key>
+        <string>ไม่</string>
+        <key>ui.second</key>
+        <string>วินาที</string>
+        <key>ui.auto</key>
+        <string>อัตโนมัติ</string>
+        <key>ui.x2</key>
+        <string>x3</string>
+        <key>ui.main.x2</key>
+        <string>x2</string>
+        <key>ui.get</key>
+        <string>รับ</string>
+        <key>ui.continue</key>
+        <string>ดำเนินการต่อ</string>
+        <key>ui.infinite</key>
+        <string>∞</string>
+        <key>ui.title.gpgs</key>
+        <string>บริการ Google Play Game</string>
+        <key>uishop.buysuccess</key>
+        <string>ซื้อสำเร็จ</string>
+        <key>uishop.buyfail</key>
+        <string>ซื้อไม่สำเร็จ</string>
+        <key>uicommon_finish</key>
+        <string>ขอบคุณที่เล่น
+มีกำหนดการอัปเดตใหม่</string>
+        <key>error.message.adnotready</key>
+        <string>โปรดลองอีกครั้งในภายหลัง</string>
+        <key>ui.option.restoresuccess</key>
+        <string>กู้ข้อมูลการซื้อสำเร็จ</string>
+        <key>ui.option.restorefail</key>
+        <string>กู้ข้อมูลการซื้อไม่สำเร็จ</string>
+        <key>ui.collection.title</key>
+        <string>มอนสเตอร์</string>
+        <key>ui.title.option</key>
+        <string>ตัวเลือก</string>
+        <key>ui.sound</key>
+        <string>เสียง</string>
+        <key>ui.vibration</key>
+        <string>การสั่น</string>
+        <key>ui.push</key>
+        <string>การแจ้งเตือน</string>
+        <key>ui.terms</key>
+        <string>ข้อกำหนดการใช้บริการ</string>
+        <key>ui.privacy</key>
+        <string>นโยบายความเป็นส่วนตัว</string>
+        <key>ui.language</key>
+        <string>ภาษา</string>
+        <key>ui.language.name</key>
+        <string>อังกฤษ</string>
+        <key>ui.moregames</key>
+        <string>เกมอื่น ๆ</string>
+        <key>ui.restorepurchase</key>
+        <string>กู้ข้อมูลการซื้อ</string>
+        <key>ui.vipenabled</key>
+        <string>เปิดใช้งานแล้ว</string>
+        <key>ui.vip.noads</key>
+        <string>ไม่มีโฆษณา</string>
+        <key>ui.upgrade.title</key>
+        <string>อัปเกรด</string>
+        <key>ui.upgrade.cell.max</key>
+        <string>สูงสุด</string>
+        <key>ui.levelup.title</key>
+        <string>เลเวลอัป!</string>
+        <key>ui.newmonster.title</key>
+        <string>มอนเตอร์ชนิดใหม่!</string>
+        <key>ui.clear.title</key>
+        <string>ผ่าน!</string>
+        <key>ui.fail.title</key>
+        <string>ไม่สำเร็จ</string>
+        <key>ui.store.title</key>
+        <string>ร้าน</string>
+        <key>ui.store.onetime</key>
+        <string>แพ็กเกจจำกัดจำนวน</string>
+        <key>ui.store.buycomplete</key>
+        <string>ทำการซื้อ</string>
+        <key>ui.collection.epic</key>
+        <string>Epic</string>
+        <key>ui.collection.epicdesc</key>
+        <string>มอนสเตอร์ที่มีความสามารถพิเศษ</string>
+        <key>ui.collection.normal</key>
+        <string>Common</string>
+        <key>ui.collection.normaldesc</key>
+        <string>รวมร่างเพื่อค้นพบมอนสเตอร์ชนิดใหม่</string>
+        <key>ui.collection.cell.impossible</key>
+        <string>ล็อก</string>
+        <key>ui.collection.cell.complete</key>
+        <string>ทำการซื้อ</string>
+        <key>ui.stage.title</key>
+        <string>สเตจ {0}</string>
+        <key>ui.stage.start</key>
+        <string>เริ่ม</string>
+        <key>ui.stage.recommend</key>
+        <string>แนะนำ</string>
+        <key>ui.stage.attackpower</key>
+        <string>พลังต่อสู้</string>
+        <key>ui.game.exit</key>
+        <string>ยอมแพ้</string>
+        <key>ui.stage.ad.power</key>
+        <string>+100% ATK</string>
+        <key>ui.stage.ad.speed</key>
+        <string>+40% ATK SPD</string>
+        <key>ui.stage.ad.time</key>
+        <string>เวลาบอส +2 วินาที</string>
+        <key>message.notenough.jewel</key>
+        <string>มีอัญมณีไม่พอ</string>
+        <key>message.notenough.gold</key>
+        <string>มีทองไม่พอ</string>
+        <key>ui.vip1.title</key>
+        <string>แพ็กเกจ VIP #lcoD178FF#rco1#cc</string>
+        <key>ui.vip2.title</key>
+        <string>แพ็กเกจ VIP #lcoD178FF#rco2#cc</string>
+        <key>ui.delete.title</key>
+        <string>เลือกมอนสเตอร์เพื่อลบ</string>
+        <key>ui.delete.popup</key>
+        <string>ต้องการลบหรือไม่</string>
+        <key>ui.gem.popup</key>
+        <string>การดูโฆษณาจะเพิ่มจำนวนอัญมณีฟรีในขุมทรัพย์ถัดไป</string>
+        <key>ui.gem.max</key>
+        <string>ขณะนี้คุณมีอัญมณีฟรีถึงจำนวนสูงสุดแล้ว</string>
+        <key>ui.attendance.title</key>
+        <string>รางวัลสำหรับการเล่นวันนี้!</string>
+        <key>ui.dungeon.title</key>
+        <string>ดันเจี้ยน</string>
+        <key>ui.dungeon.cell.JEWEL</key>
+        <string>ดันเจี้ยนอัญมณี</string>
+        <key>ui.dungeon.cell.GOLD</key>
+        <string>ดันเจี้ยนทอง</string>
+        <key>ui.dungeon.cell.SUMMON</key>
+        <string>ดันเจี้ยนหินอัญเชิญ</string>
+        <key>ui.dungeon.desc.JEWEL</key>
+        <string>คุณสามารถรับอัญมณีได้มากขึ้น</string>
+        <key>ui.dungeon.desc.GOLD</key>
+        <string>คุณสามารถรับทองได้มากขึ้น</string>
+        <key>ui.dungeon.desc.SUMMON</key>
+        <string>คุณสามารถรับหินอัญเชิญได้มากขึ้น</string>
+        <key>ui.dragon.title</key>
+        <string>บทพิสูจน์แห่งมังกร เลเวล {0}</string>
+        <key>ui.stage.condition</key>
+        <string>ยังใช้ไม่ได้ (สเตจ {0})</string>
+        <key>ui.upgrade.atk2.desc</key>
+        <string>ลบมอนสเตอร์ตัวนั้นแล้วเพิ่ม ATK ของมอนสเตอร์ตัวอื่น ๆ ทั้งหมดเป็นสองเท่าอย่างถาวร</string>
+        <key>ui.upgrade.atk2.nomonster</key>
+        <string>คุณไม่มีมอนสเตอร์ตัวนั้น</string>
+        <key>ui.message.fireball.limit</key>
+        <string>สามารถใช้ได้ {0} ครั้งต่อสเตจ</string>
+        <key>ui.stage.skip</key>
+        <string>แตะเพื่อข้าม</string>
+        <key>ui.dragonknight.title</key>
+        <string>นักรบมังกร</string>
+        <key>ui.dragonknight.summonlevel</key>
+        <string>เลเวลอัญเชิญ</string>
+        <key>ui.dragonknight.desc</key>
+        <string>ยิ่งผสมอาวุธมากเท่าไหร่ พลังที่ได้ก็ยิ่งแกร่งกล้ามากเท่านั้น</string>
+        <key>ui.dragonknight.equipment</key>
+        <string>อาวุธ</string>
+        <key>ui.dragonknight.equip</key>
+        <string>สวม</string>
+        <key>ui.dragonknight.merge</key>
+        <string>รวม</string>
+        <key>ui.dragonknight.grade</key>
+        <string>เกรด</string>
+        <key>ui.dragonknight.grade.1</key>
+        <string>Common</string>
+        <key>ui.dragonknight.grade.2</key>
+        <string>Uncommon</string>
+        <key>ui.dragonknight.grade.3</key>
+        <string>Rare</string>
+        <key>ui.dragonknight.grade.4</key>
+        <string>Heroic</string>
+        <key>ui.dragonknight.grade.5</key>
+        <string>Legendary</string>
+        <key>ui.dragonknight.grade.6</key>
+        <string>Mythic</string>
+        <key>ui.dragonknight.grade.available</key>
+        <string>เกรดที่ใช้ได้</string>
+        <key>ui.dragonknight.info.desc.1</key>
+        <string>ยิ่งอัญเชิญและผสมอาวุธมากเท่าไหร่ คุณก็จะได้รับอาวุธที่ดียิ่งขึ้นมากเท่านั้น</string>
+        <key>ui.dragonknight.info.desc.2</key>
+        <string>รูปลักษณ์ของนักรบมังกรเปลี่ยนแปลงไปตามระดับของอาวุธ</string>
+        <key>ui.dragonknight.info.desc.3</key>
+        <string>ยิ่งเลเวลอัญเชิญเยอะมากเท่าไหร่ โอกาสที่จะได้รับอุปกรณ์เกรดสูงก็ยิ่งมากขึ้นเท่านั้น</string>
+        <key>ui.redsummonstone</key>
+        <string>หินอัญเชิญสีแดง</string>
+        <key>push.evening.title</key>
+        <string>รางวัลสนับสนุนช่วงเย็น</string>
+        <key>push.evening.message</key>
+        <string>ล็อกอินตอนนี้เพื่อรับคำอัญเชิญอาวุธ {0} รายการ!</string>
+        <key>push.weekend.title</key>
+        <string>รางวัลพิเศษช่วงสุดสัปดาห์</string>
+        <key>ui.monsterpass.title</key>
+        <string>Monster Pass</string>
+        <key>ui.monsterpass.description</key>
+        <string>ยิ่งรวมมากเท่าไหร่ รางวัลก็ยิ่งดีขึ้นมากเท่านั้น!
+รวมต่อไปเพื่อรับรางวัลสุดพิเศษ!</string>
+        <key>ui.monsterpass.season</key>
+        <string>ซีซัน {0}</string>
+        <key>ui.monsterpass.remaintime</key>
+        <string>เวลาซีซันที่เหลือ</string>
+        <key>ui.monsterpass.buy</key>
+        <string>ซื้อ Monster Pass</string>
+        <key>ui.shop.dailypackage</key>
+        <string>แพ็กเกจรายวัน</string>
+        <key>ui.shop.weeklypackage</key>
+        <string>แพ็กเกจรายสัปดาห์</string>
+        <key>ui.shop.monsthlypackage</key>
+        <string>แพ็กเกจรายเดือน</string>
+        <key>ui.shop.2xbonusevent</key>
+        <string>ซื้อครั้งแรก รับโบนัสสองเท่า!</string>
+        <key>marketadd</key>
+        <string>วิวัฒนาการนักรบมังกรของคุณ!
+อัญเชิญอาวุธสุดวิเศษเพื่อรับนักรบมังกรสุดเท่!</string>
+        <key>ui.growth.unlock</key>
+        <string>Get Elite Rewards</string>
+        <key>ui.growth.title</key>
+        <string>Growth Support</string>
+        <key>ui.growth.stage</key>
+        <string>Stage</string>
+        <key>ui.growth.free</key>
+        <string>Free</string>
+        <key>ui.growth.elite</key>
+        <string>Elite</string>
+        <key>ui.dailyreward.title</key>
+        <string>Playtime Rewards</string>
+        <key>ui.dailyreward.time</key>
+        <string>Play Time Today</string>
+        <key>ui.ranking.title</key>
+        <string>Ranking</string>
+        <key>ui.ranking.stage</key>
+        <string>Stage</string>
+        <key>ui.ranking.group</key>
+        <string>Group</string>
+        <key>ui.nickname.desc</key>
+        <string>Please enter your nickname.</string>
+        <key>ui.nickname.fail</key>
+        <string>Invalid nickname
+You can enter from 2~8 characters, excluding special characters.</string>
+        <key>ui.network.fail</key>
+        <string>Network is unstable. \nPlease try again later.</string>
+        <key>.</key>
+        <string></string>
+    </dict>
+</plist>

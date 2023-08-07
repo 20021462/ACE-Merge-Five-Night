@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "139797901766",
+    "project_id": "merge-master-five-nights",
+    "storage_bucket": "merge-master-five-nights.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139797901766:android:a041cb3c1a849e739442c7",
+        "android_client_info": {
+          "package_name": "com.fc.p.ace.five.nights.jr.monster.master"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139797901766-dn3e3im83e0spdvmc44a00iifbp51tl5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYRdVvJSwvIq5qKflIpJTGKFuG2q9iqw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139797901766-dn3e3im83e0spdvmc44a00iifbp51tl5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "139797901766-c7bnqe8lv7cr9nvggdldghcud78c2srp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fc.p.ace.five.nights.jr.monster.master"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

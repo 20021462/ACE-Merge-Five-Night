@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>mission_1_desc</key>
+        <string>Khám phá quái vật {0}</string>
+        <key>mission_2_desc</key>
+        <string>Vượt qua màn chơi {0}</string>
+        <key>mission_3_desc</key>
+        <string>Vượt qua màn chơi {0} lần</string>
+        <key>mission_4_desc</key>
+        <string>Triệu Hồi Quái Vật</string>
+        <key>mission_5_desc</key>
+        <string>Ghép Quái Vật</string>
+        <key>mission_6_desc</key>
+        <string>Nâng Cấp</string>
+        <key>mission_7_desc</key>
+        <string>Xem quảng cáo</string>
+        <key>skill_1_desc</key>
+        <string>Giảm SPD triệu hồi</string>
+        <key>skill_2_desc</key>
+        <string>Tăng ô triệu hồi</string>
+        <key>passive_1_desc</key>
+        <string>Giảm SPD triệu hồi</string>
+        <key>passive_2_desc</key>
+        <string>Tăng ô triệu hồi</string>
+        <key>passive_3_desc</key>
+        <string>Tăng ô sở hữu</string>
+        <key>passive_4_desc</key>
+        <string>Tăng ATK</string>
+        <key>passive_5_desc</key>
+        <string>Tăng ATK SPD</string>
+        <key>passive_6_desc</key>
+        <string>Tăng thời gian boss</string>
+        <key>passive_7_desc</key>
+        <string>Tăng cấp triệu hồi</string>
+        <key>passive_8_desc</key>
+        <string>Giảm thời gian hồi lại tự động triệu hồi</string>
+        <key>passive_9_desc</key>
+        <string>Tăng ATK 2</string>
+        <key>skill_1_desc</key>
+        <string>-{0}% SPD triệu hồi</string>
+        <key>skill_2_desc</key>
+        <string>+{0} ô triệu hồi</string>
+        <key>skill_3_desc</key>
+        <string>+{0} ô sở hữu</string>
+        <key>skill_4_desc</key>
+        <string>+{0}% ATK</string>
+        <key>skill_5_desc</key>
+        <string>+{0}% ATK SPD</string>
+        <key>skill_6_desc</key>
+        <string>+{0} giây thời gian boss</string>
+        <key>skill_8_desc</key>
+        <string>Tự động triệu hồi mỗi {0} giây</string>
+        <key>skill_9_desc</key>
+        <string>Tăng ATK x {0}</string>
+        <key>message.toomanypets</key>
+        <string>Có quá nhiều quái vật.</string>
+        <key>message.cooltime</key>
+        <string>Chưa sẵn sàng.</string>
+        <key>ui.quitgame</key>
+        <string>Thoát trò chơi</string>
+        <key>message.quitgame</key>
+        <string>Bạn muốn thoát khỏi trò chơi?</string>
+        <key>message.pushagreement1</key>
+        <string>Tôi sẽ nhắc bạn khi một quái thú mới xuất hiện.</string>
+        <key>push.offlinetitle</key>
+        <string>THU NHẬP NGOẠI TUYẾN</string>
+        <key>push.offlinereward</key>
+        <string>Thu thập ngoại tuyến đã đầy. Chơi ngay thôi!</string>
+        <key>push.dailytitle</key>
+        <string>PHẦN THƯỞNG HÀNG NGÀY!</string>
+        <key>push.dailyreward</key>
+        <string>Đăng nhập để nhận 300 ngọc.</string>
+        <key>ui.daily.title</key>
+        <string>PHẦN THƯỞNG HÀNG NGÀY!</string>
+        <key>ui.offline.title</key>
+        <string>THU NHẬP NGOẠI TUYẾN</string>
+        <key>ui.rating.message</key>
+        <string>Nếu bạn viết đánh giá và chấm điểm trò chơi, 
+điều này sẽ giúp chúng tôi cải thiện trò chơi hơn nữa!</string>
+        <key>ui.rating.button1</key>
+        <string>OK</string>
+        <key>ui.rating.button2</key>
+        <string>Bỏ qua</string>
+        <key>ui.ok</key>
+        <string>OK</string>
+        <key>ui.no</key>
+        <string>KHÔNG</string>
+        <key>ui.cancel</key>
+        <string>KHÔNG</string>
+        <key>ui.second</key>
+        <string>giây</string>
+        <key>ui.auto</key>
+        <string>TỰ ĐỘNG</string>
+        <key>ui.x2</key>
+        <string>x3</string>
+        <key>ui.main.x2</key>
+        <string>x2</string>
+        <key>ui.get</key>
+        <string>NHẬN</string>
+        <key>ui.continue</key>
+        <string>TIẾP TỤC</string>
+        <key>ui.infinite</key>
+        <string>∞</string>
+        <key>ui.title.gpgs</key>
+        <string>Dịch Vụ Trò Chơi Google Play</string>
+        <key>uishop.buysuccess</key>
+        <string>Mua thành công.</string>
+        <key>uishop.buyfail</key>
+        <string>Mua thất bại.</string>
+        <key>uicommon_finish</key>
+        <string>Cảm ơn bạn đã chơi.
+Bản cập nhật mới đã được lên lịch.</string>
+        <key>error.message.adnotready</key>
+        <string>Vui lòng thử lại sau.</string>
+        <key>ui.option.restoresuccess</key>
+        <string>Khôi phục giao dịch thành công.</string>
+        <key>ui.option.restorefail</key>
+        <string>Khôi phục giao dịch thất bại.</string>
+        <key>ui.collection.title</key>
+        <string>Quái vật</string>
+        <key>ui.title.option</key>
+        <string>TÙY CHỌN</string>
+        <key>ui.sound</key>
+        <string>Âm thanh</string>
+        <key>ui.vibration</key>
+        <string>Rung</string>
+        <key>ui.push</key>
+        <string>Đẩy</string>
+        <key>ui.terms</key>
+        <string>Điều khoản sử dụng</string>
+        <key>ui.privacy</key>
+        <string>Chính Sách Bảo Mật</string>
+        <key>ui.language</key>
+        <string>Ngôn Ngữ</string>
+        <key>ui.language.name</key>
+        <string>ENGLISH</string>
+        <key>ui.moregames</key>
+        <string>Trò Chơi Khác</string>
+        <key>ui.restorepurchase</key>
+        <string>Khôi Phục Giao Dịch</string>
+        <key>ui.vipenabled</key>
+        <string>Đã kích hoạt</string>
+        <key>ui.vip.noads</key>
+        <string>Không quảng cáo</string>
+        <key>ui.upgrade.title</key>
+        <string>NÂNG CẤP</string>
+        <key>ui.upgrade.cell.max</key>
+        <string>TỐI ĐA</string>
+        <key>ui.levelup.title</key>
+        <string>LÊN CẤP!</string>
+        <key>ui.newmonster.title</key>
+        <string>Một quái vật mới!</string>
+        <key>ui.clear.title</key>
+        <string>VƯỢT QUA!</string>
+        <key>ui.fail.title</key>
+        <string>THẤT BẠI</string>
+        <key>ui.store.title</key>
+        <string>CỬA HÀNG</string>
+        <key>ui.store.onetime</key>
+        <string>Gói Giới Hạn</string>
+        <key>ui.store.buycomplete</key>
+        <string>Hoàn thành giao dịch</string>
+        <key>ui.collection.epic</key>
+        <string>Cực Phẩm</string>
+        <key>ui.collection.epicdesc</key>
+        <string>Quái vật với một năng lực đặc biệt</string>
+        <key>ui.collection.normal</key>
+        <string>Thường</string>
+        <key>ui.collection.normaldesc</key>
+        <string>Ghép để tìm ra quái vật mới</string>
+        <key>ui.collection.cell.impossible</key>
+        <string>KHÓA</string>
+        <key>ui.collection.cell.complete</key>
+        <string>Hoàn thành giao dịch</string>
+        <key>ui.stage.title</key>
+        <string>Màn Chơi {0}</string>
+        <key>ui.stage.start</key>
+        <string>BẮT ĐẦU</string>
+        <key>ui.stage.recommend</key>
+        <string>Khuyến nghị</string>
+        <key>ui.stage.attackpower</key>
+        <string>Lực Chiến</string>
+        <key>ui.game.exit</key>
+        <string>Từ Bỏ</string>
+        <key>ui.stage.ad.power</key>
+        <string>+100% ATK</string>
+        <key>ui.stage.ad.speed</key>
+        <string>+40% ATK SPD</string>
+        <key>ui.stage.ad.time</key>
+        <string>+2 giây thời gian boss</string>
+        <key>message.notenough.jewel</key>
+        <string>Không đủ ngọc.</string>
+        <key>message.notenough.gold</key>
+        <string>Không đủ vàng.</string>
+        <key>ui.vip1.title</key>
+        <string>GÓI VIP #lcoD178FF#rco1#cc</string>
+        <key>ui.vip2.title</key>
+        <string>GÓI VIP #lcoD178FF#rco2#cc</string>
+        <key>ui.delete.title</key>
+        <string>Chọn một quái vật để xóa</string>
+        <key>ui.delete.popup</key>
+        <string>Xóa?</string>
+        <key>ui.gem.popup</key>
+        <string>Xem quảng cáo sẽ tăng lượng ngọc miễn phí nhận được ở kho báu tiếp theo.</string>
+        <key>ui.gem.max</key>
+        <string>Bạn đã đạt mức ngọc miễn phí tối đa.</string>
+        <key>ui.attendance.title</key>
+        <string>Phần thưởng chơi hôm nay!</string>
+        <key>ui.dungeon.title</key>
+        <string>HẦM NGỤC</string>
+        <key>ui.dungeon.cell.JEWEL</key>
+        <string>Hầm Ngục Ngọc</string>
+        <key>ui.dungeon.cell.GOLD</key>
+        <string>Hầm Ngục Vàng</string>
+        <key>ui.dungeon.cell.SUMMON</key>
+        <string>Hầm Ngục Đá Triệu Hồi</string>
+        <key>ui.dungeon.desc.JEWEL</key>
+        <string>Bạn có thể thu được thêm Ngọc.</string>
+        <key>ui.dungeon.desc.GOLD</key>
+        <string>Bạn có thể thu được thêm Vàng.</string>
+        <key>ui.dungeon.desc.SUMMON</key>
+        <string>Bạn có thể thu được thêm Đá Triệu Hồi.</string>
+        <key>ui.dragon.title</key>
+        <string>Thử Thách Rồng Cấp {0}</string>
+        <key>ui.stage.condition</key>
+        <string>Chưa sẵn sàng. (Màn Chơi {0})</string>
+        <key>ui.upgrade.atk2.desc</key>
+        <string>Xóa quái vật này và vĩnh viễn nhân đôi ATK cho tất cả quái vật khác.</string>
+        <key>ui.upgrade.atk2.nomonster</key>
+        <string>Bạn không có quái vật đó.</string>
+        <key>ui.message.fireball.limit</key>
+        <string>Có thể dùng {0} lần mỗi màn chơi.</string>
+        <key>ui.stage.skip</key>
+        <string>Ấn để bỏ qua</string>
+        <key>ui.dragonknight.title</key>
+        <string>Hiệp Sĩ Rồng</string>
+        <key>ui.dragonknight.summonlevel</key>
+        <string>Cấp Triệu Hồi</string>
+        <key>ui.dragonknight.desc</key>
+        <string>Hợp nhất càng nhiều vũ khí, thành phẩm càng mạnh.</string>
+        <key>ui.dragonknight.equipment</key>
+        <string>Vũ Khí</string>
+        <key>ui.dragonknight.equip</key>
+        <string>Trang Bị</string>
+        <key>ui.dragonknight.merge</key>
+        <string>Ghép</string>
+        <key>ui.dragonknight.grade</key>
+        <string>Cấp</string>
+        <key>ui.dragonknight.grade.1</key>
+        <string>Thường</string>
+        <key>ui.dragonknight.grade.2</key>
+        <string>Ít Dùng</string>
+        <key>ui.dragonknight.grade.3</key>
+        <string>Hiếm</string>
+        <key>ui.dragonknight.grade.4</key>
+        <string>Anh Hùng</string>
+        <key>ui.dragonknight.grade.5</key>
+        <string>Huyền Thoại</string>
+        <key>ui.dragonknight.grade.6</key>
+        <string>Thần Thoại</string>
+        <key>ui.dragonknight.grade.available</key>
+        <string>Các cấp hiện có</string>
+        <key>ui.dragonknight.info.desc.1</key>
+        <string>Càng triệu hồi và hợp nhất càng nhiều vũ khí, thành phẩm bạn nhận được sẽ càng mạnh.</string>
+        <key>ui.dragonknight.info.desc.2</key>
+        <string>Vẻ ngoài của Hiệp Sĩ Rồng sẽ thay đổi theo loại vũ khí.</string>
+        <key>ui.dragonknight.info.desc.3</key>
+        <string>Cấp triệu hồi càng cao, bạn càng có cơ hội nhận được trang bị cấp cao.</string>
+        <key>ui.redsummonstone</key>
+        <string>Đá Triệu Hồi Đỏ</string>
+        <key>push.evening.title</key>
+        <string>Phần Thưởng Hỗ Trợ Đêm</string>
+        <key>push.evening.message</key>
+        <string>Đăng nhập ngay để nhận {0} triệu hồi vũ khí!</string>
+        <key>push.weekend.title</key>
+        <string>Phần Thưởng Đặc Biệt Cuối Tuần</string>
+        <key>ui.monsterpass.title</key>
+        <string>Vé Quái Vật</string>
+        <key>ui.monsterpass.description</key>
+        <string>Càng ghép nhiều thưởng càng nhiều!
+Hãy ghép liên tục để nhận được phần thưởng đặc biệt!</string>
+        <key>ui.monsterpass.season</key>
+        <string>Mùa {0}</string>
+        <key>ui.monsterpass.remaintime</key>
+        <string>Thời gian còn lại của mùa</string>
+        <key>ui.monsterpass.buy</key>
+        <string>Mua Vé Quái Vật</string>
+        <key>ui.shop.dailypackage</key>
+        <string>Gói Hàng Ngày</string>
+        <key>ui.shop.weeklypackage</key>
+        <string>Gói Hàng Tuần</string>
+        <key>ui.shop.monsthlypackage</key>
+        <string>Gói Hàng Tháng</string>
+        <key>ui.shop.2xbonusevent</key>
+        <string>Thưởng Nhân Đôi Giao Dịch Lần Đầu!</string>
+        <key>marketadd</key>
+        <string>Phát triển Hiệp Sĩ Rồng của bạn!
+Triệu hồi vũ khí đặc biệt để nhận được một Hiệp Sĩ Rồng siêu ngầu!</string>
+        <key>ui.growth.unlock</key>
+        <string>Get Elite Rewards</string>
+        <key>ui.growth.title</key>
+        <string>Growth Support</string>
+        <key>ui.growth.stage</key>
+        <string>Stage</string>
+        <key>ui.growth.free</key>
+        <string>Free</string>
+        <key>ui.growth.elite</key>
+        <string>Elite</string>
+        <key>ui.dailyreward.title</key>
+        <string>Playtime Rewards</string>
+        <key>ui.dailyreward.time</key>
+        <string>Play Time Today</string>
+        <key>ui.ranking.title</key>
+        <string>Ranking</string>
+        <key>ui.ranking.stage</key>
+        <string>Stage</string>
+        <key>ui.ranking.group</key>
+        <string>Group</string>
+        <key>ui.nickname.desc</key>
+        <string>Please enter your nickname.</string>
+        <key>ui.nickname.fail</key>
+        <string>Invalid nickname
+You can enter from 2~8 characters, excluding special characters.</string>
+        <key>ui.network.fail</key>
+        <string>Network is unstable. \nPlease try again later.</string>
+        <key>.</key>
+        <string></string>
+    </dict>
+</plist>

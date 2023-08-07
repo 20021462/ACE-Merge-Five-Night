@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>mission_1_desc</key>
+        <string>Canavar keşfi {0}</string>
+        <key>mission_2_desc</key>
+        <string>{0}. bölümü tamamla</string>
+        <key>mission_3_desc</key>
+        <string>{0} kez bölüm tamamla</string>
+        <key>mission_4_desc</key>
+        <string>Canavar çağır</string>
+        <key>mission_5_desc</key>
+        <string>Canavar birleştir</string>
+        <key>mission_6_desc</key>
+        <string>Yükselt</string>
+        <key>mission_7_desc</key>
+        <string>Reklamı izle</string>
+        <key>skill_1_desc</key>
+        <string>Çağırma HIZ'ını azaltır</string>
+        <key>skill_2_desc</key>
+        <string>Çağırma yuvasını arttırır</string>
+        <key>passive_1_desc</key>
+        <string>Çağırma HIZ'ını azaltır</string>
+        <key>passive_2_desc</key>
+        <string>Çağırma yuvasını arttırır</string>
+        <key>passive_3_desc</key>
+        <string>Elde tutma yuvasını arttırır</string>
+        <key>passive_4_desc</key>
+        <string>Saldırı gücünü arttırır</string>
+        <key>passive_5_desc</key>
+        <string>Saldırı hızını arttırır</string>
+        <key>passive_6_desc</key>
+        <string>Boss süresini arttırır</string>
+        <key>passive_7_desc</key>
+        <string>Çağrılan canavar sınıfını arttırır</string>
+        <key>passive_8_desc</key>
+        <string>Otomatik çağırma yenilenme süresini azaltır</string>
+        <key>passive_9_desc</key>
+        <string>Saldırı gücünü 2 arttırır</string>
+        <key>skill_1_desc</key>
+        <string>-%{0} çağırma HIZ</string>
+        <key>skill_2_desc</key>
+        <string>+{0} çağırma yuvası</string>
+        <key>skill_3_desc</key>
+        <string>+{0} elde tutma yuvası</string>
+        <key>skill_4_desc</key>
+        <string>+%{0} SAL</string>
+        <key>skill_5_desc</key>
+        <string>+%{0} SAL HIZ</string>
+        <key>skill_6_desc</key>
+        <string>+{0}sn boss süresi</string>
+        <key>skill_8_desc</key>
+        <string>Her {0} saniyede otomatik çağırma</string>
+        <key>skill_9_desc</key>
+        <string>Saldırı gücünde {0} kat artış</string>
+        <key>message.toomanypets</key>
+        <string>Çok fazla canavar var.</string>
+        <key>message.cooltime</key>
+        <string>Şu an mevcut değil.</string>
+        <key>ui.quitgame</key>
+        <string>Oyundan çık</string>
+        <key>message.quitgame</key>
+        <string>Oyundan çıkmak istiyor musun?</string>
+        <key>message.pushagreement1</key>
+        <string>Yeni bir canavar belirince sana haber vereceğim.</string>
+        <key>push.offlinetitle</key>
+        <string>ÇEVRİMDIŞI KAZANIMLAR</string>
+        <key>push.offlinereward</key>
+        <string>Çevrimdışı kazanımlar doldu. Hemen oyna!</string>
+        <key>push.dailytitle</key>
+        <string>GÜNLÜK ÖDÜL!</string>
+        <key>push.dailyreward</key>
+        <string>300 cevher kazanmak için hemen oturum aç.</string>
+        <key>ui.daily.title</key>
+        <string>GÜNLÜK ÖDÜL!</string>
+        <key>ui.offline.title</key>
+        <string>ÇEVRİMDIŞI KAZANIMLAR</string>
+        <key>ui.rating.message</key>
+        <string>Eğer oyunumuzu inceler ve puan verirsen 
+daha fazla eğlenceli bölüm oluşturmamıza yardımcı olursun!</string>
+        <key>ui.rating.button1</key>
+        <string>Tamam</string>
+        <key>ui.rating.button2</key>
+        <string>Atla</string>
+        <key>ui.ok</key>
+        <string>Tamam</string>
+        <key>ui.no</key>
+        <string>Hayır</string>
+        <key>ui.cancel</key>
+        <string>Hayır</string>
+        <key>ui.second</key>
+        <string>sn</string>
+        <key>ui.auto</key>
+        <string>OTOMATİK</string>
+        <key>ui.x2</key>
+        <string>x3</string>
+        <key>ui.main.x2</key>
+        <string>x2</string>
+        <key>ui.get</key>
+        <string>AL</string>
+        <key>ui.continue</key>
+        <string>DEVAM</string>
+        <key>ui.infinite</key>
+        <string>∞</string>
+        <key>ui.title.gpgs</key>
+        <string>Google Play Game Services</string>
+        <key>uishop.buysuccess</key>
+        <string>Satın alma işlemi başarılı.</string>
+        <key>uishop.buyfail</key>
+        <string>Satın alma işlemi başarısız.</string>
+        <key>uicommon_finish</key>
+        <string>Oynadığın için teşekkürler.
+Yeni bir güncelleme sıraya alındı.</string>
+        <key>error.message.adnotready</key>
+        <string>Lütfen daha sonra tekrar dene.</string>
+        <key>ui.option.restoresuccess</key>
+        <string>Satın almalar başarılı bir şekilde geri yüklendi.</string>
+        <key>ui.option.restorefail</key>
+        <string>Satın almalar geri yüklenemedi.</string>
+        <key>ui.collection.title</key>
+        <string>Canavar</string>
+        <key>ui.title.option</key>
+        <string>AYAR</string>
+        <key>ui.sound</key>
+        <string>Ses</string>
+        <key>ui.vibration</key>
+        <string>Titreşim</string>
+        <key>ui.push</key>
+        <string>Anlık Bildirim</string>
+        <key>ui.terms</key>
+        <string>Kullanım şartları</string>
+        <key>ui.privacy</key>
+        <string>Gizlilik Politikası</string>
+        <key>ui.language</key>
+        <string>Dil</string>
+        <key>ui.language.name</key>
+        <string>TÜRKÇE</string>
+        <key>ui.moregames</key>
+        <string>Daha Fazla Oyun</string>
+        <key>ui.restorepurchase</key>
+        <string>Satın almaları geri yükle</string>
+        <key>ui.vipenabled</key>
+        <string>Etkin</string>
+        <key>ui.vip.noads</key>
+        <string>Reklamsız</string>
+        <key>ui.upgrade.title</key>
+        <string>YÜKSELT</string>
+        <key>ui.upgrade.cell.max</key>
+        <string>MAKSİMUM</string>
+        <key>ui.levelup.title</key>
+        <string>SEVİYE ATLANDI!</string>
+        <key>ui.newmonster.title</key>
+        <string>Yeni bir canavar!</string>
+        <key>ui.clear.title</key>
+        <string>TAMAMLANDI!</string>
+        <key>ui.fail.title</key>
+        <string>BAŞARISIZ</string>
+        <key>ui.store.title</key>
+        <string>MAĞAZA</string>
+        <key>ui.store.onetime</key>
+        <string>Sınırlı Paket</string>
+        <key>ui.store.buycomplete</key>
+        <string>Satın alma işlemini tamamla</string>
+        <key>ui.collection.epic</key>
+        <string>Destansı</string>
+        <key>ui.collection.epicdesc</key>
+        <string>Özel yeteneği olan canavar</string>
+        <key>ui.collection.normal</key>
+        <string>Yaygın</string>
+        <key>ui.collection.normaldesc</key>
+        <string>Yeni bir canavar keşfetmek için birleştir</string>
+        <key>ui.collection.cell.impossible</key>
+        <string>KİLİTLE</string>
+        <key>ui.collection.cell.complete</key>
+        <string>Satın alma işlemini tamamla</string>
+        <key>ui.stage.title</key>
+        <string>{0}. Bölüm</string>
+        <key>ui.stage.start</key>
+        <string>BAŞLA</string>
+        <key>ui.stage.recommend</key>
+        <string>Önerilen</string>
+        <key>ui.stage.attackpower</key>
+        <string>Savaş Gücü</string>
+        <key>ui.game.exit</key>
+        <string>Pes et</string>
+        <key>ui.stage.ad.power</key>
+        <string>+%100 SAL</string>
+        <key>ui.stage.ad.speed</key>
+        <string>+%40 SAL HIZ</string>
+        <key>ui.stage.ad.time</key>
+        <string>+2sn boss süresi</string>
+        <key>message.notenough.jewel</key>
+        <string>Yeterli cevher yok.</string>
+        <key>message.notenough.gold</key>
+        <string>Yeterli altın yok.</string>
+        <key>ui.vip1.title</key>
+        <string>VIP PAKETİ #lcoD178FF#rco1#cc</string>
+        <key>ui.vip2.title</key>
+        <string>VIP PAKETİ #lcoD178FF#rco2#cc</string>
+        <key>ui.delete.title</key>
+        <string>Kaldıracağın canavarı seç</string>
+        <key>ui.delete.popup</key>
+        <string>Kaldırılsın mı?</string>
+        <key>ui.gem.popup</key>
+        <string>Reklam izlemek, bir sonraki hazineden alacağın ücretsiz cevher sayısını arttırır.</string>
+        <key>ui.gem.max</key>
+        <string>Maksimum ücretsiz cevher sayısına ulaştın.</string>
+        <key>ui.attendance.title</key>
+        <string>Bugün oynadığın için ödül!</string>
+        <key>ui.dungeon.title</key>
+        <string>ZİNDAN</string>
+        <key>ui.dungeon.cell.JEWEL</key>
+        <string>Cevher Zindanı</string>
+        <key>ui.dungeon.cell.GOLD</key>
+        <string>Altın Zindanı</string>
+        <key>ui.dungeon.cell.SUMMON</key>
+        <string>Çağırma Taşı Zindanı</string>
+        <key>ui.dungeon.desc.JEWEL</key>
+        <string>Daha fazla cevher elde edebilirsin.</string>
+        <key>ui.dungeon.desc.GOLD</key>
+        <string>Daha fazla altın elde edebilirsin.</string>
+        <key>ui.dungeon.desc.SUMMON</key>
+        <string>Daha fazla Çağırma Taşı elde edebilirsin.</string>
+        <key>ui.dragon.title</key>
+        <string>Ejderha İmtihanları {0}. Svy</string>
+        <key>ui.stage.condition</key>
+        <string>Şu an mevcut değil. ({0}. Bölüm)</string>
+        <key>ui.upgrade.atk2.desc</key>
+        <string>Bu canavarı kaldırır ve diğer tüm canavarların SAL değerini kalıcı olarak iki katına çıkarır.</string>
+        <key>ui.upgrade.atk2.nomonster</key>
+        <string>Bu canavar sende yok.</string>
+        <key>ui.message.fireball.limit</key>
+        <string>Bölüm başı {0} kez kullanılabilir.</string>
+        <key>ui.stage.skip</key>
+        <string>Atlamak için dokun</string>
+        <key>ui.dragonknight.title</key>
+        <string>Ejderha Şövalyesi</string>
+        <key>ui.dragonknight.summonlevel</key>
+        <string>Çağırma Seviyesi</string>
+        <key>ui.dragonknight.desc</key>
+        <string>Ne kadar silah birleştirirsen o kadar güçlü bir ürün elde edersin.</string>
+        <key>ui.dragonknight.equipment</key>
+        <string>Silah</string>
+        <key>ui.dragonknight.equip</key>
+        <string>Kuşan</string>
+        <key>ui.dragonknight.merge</key>
+        <string>Birleştir</string>
+        <key>ui.dragonknight.grade</key>
+        <string>Sınıf</string>
+        <key>ui.dragonknight.grade.1</key>
+        <string>Yaygın</string>
+        <key>ui.dragonknight.grade.2</key>
+        <string>Sıradışı</string>
+        <key>ui.dragonknight.grade.3</key>
+        <string>Nadir</string>
+        <key>ui.dragonknight.grade.4</key>
+        <string>Destansı</string>
+        <key>ui.dragonknight.grade.5</key>
+        <string>Efsanevi</string>
+        <key>ui.dragonknight.grade.6</key>
+        <string>Mitik</string>
+        <key>ui.dragonknight.grade.available</key>
+        <string>Sınıf mevcut</string>
+        <key>ui.dragonknight.info.desc.1</key>
+        <string>Ne kadar silah çağırır ve birleştirirsen o kadar iyi silahlar elde edersin.</string>
+        <key>ui.dragonknight.info.desc.2</key>
+        <string>Ejderha Şövalyesi'nin görünümü silah sınıfına göre değişir.</string>
+        <key>ui.dragonknight.info.desc.3</key>
+        <string>Çağırma seviyesi ne kadar yüksek olursa yüksek sınıf ekipman elde etme şansın o kadar artar.</string>
+        <key>ui.redsummonstone</key>
+        <string>Kızıl Çağırma Taşı</string>
+        <key>push.evening.title</key>
+        <string>Akşam Desteği Ödülü</string>
+        <key>push.evening.message</key>
+        <string>{0} silah çağırması kazanmak için hemen oturum aç!</string>
+        <key>push.weekend.title</key>
+        <string>Hafta Sonu Özel Ödülü</string>
+        <key>ui.monsterpass.title</key>
+        <string>Monster Pass</string>
+        <key>ui.monsterpass.description</key>
+        <string>Ne kadar birleştirme yaparsan o kadar iyi ödüller alırsın!
+Özel ödüller kazanmak için birleştirmeye devam et!</string>
+        <key>ui.monsterpass.season</key>
+        <string>{0}. Sezon</string>
+        <key>ui.monsterpass.remaintime</key>
+        <string>Kalan sezon süresi</string>
+        <key>ui.monsterpass.buy</key>
+        <string>Monster Pass Satın Al</string>
+        <key>ui.shop.dailypackage</key>
+        <string>Günlük Paket</string>
+        <key>ui.shop.weeklypackage</key>
+        <string>Haftalık Paket</string>
+        <key>ui.shop.monsthlypackage</key>
+        <string>Aylık Paket</string>
+        <key>ui.shop.2xbonusevent</key>
+        <string>İlk Satın Alma İki Kat Bonusu!</string>
+        <key>marketadd</key>
+        <string>Ejderha Şövalyesi'ni Geliştir!
+Ejderha Şövalyesi'ni havalı bir hale getirmek için özel silahlar çağır!</string>
+        <key>ui.growth.unlock</key>
+        <string>Get Elite Rewards</string>
+        <key>ui.growth.title</key>
+        <string>Growth Support</string>
+        <key>ui.growth.stage</key>
+        <string>Stage</string>
+        <key>ui.growth.free</key>
+        <string>Free</string>
+        <key>ui.growth.elite</key>
+        <string>Elite</string>
+        <key>ui.dailyreward.title</key>
+        <string>Playtime Rewards</string>
+        <key>ui.dailyreward.time</key>
+        <string>Play Time Today</string>
+        <key>ui.ranking.title</key>
+        <string>Ranking</string>
+        <key>ui.ranking.stage</key>
+        <string>Stage</string>
+        <key>ui.ranking.group</key>
+        <string>Group</string>
+        <key>ui.nickname.desc</key>
+        <string>Please enter your nickname.</string>
+        <key>ui.nickname.fail</key>
+        <string>Invalid nickname
+You can enter from 2~8 characters, excluding special characters.</string>
+        <key>ui.network.fail</key>
+        <string>Network is unstable. \nPlease try again later.</string>
+        <key>.</key>
+        <string></string>
+    </dict>
+</plist>

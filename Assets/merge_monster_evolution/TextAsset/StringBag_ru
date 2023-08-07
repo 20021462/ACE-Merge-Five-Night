@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>mission_1_desc</key>
+        <string>Откройте {0} монстр.</string>
+        <key>mission_2_desc</key>
+        <string>Зачистите {0} этап.</string>
+        <key>mission_3_desc</key>
+        <string>Зачистите этапы {0} р.</string>
+        <key>mission_4_desc</key>
+        <string>Призыв монстров</string>
+        <key>mission_5_desc</key>
+        <string>Слияние монстров</string>
+        <key>mission_6_desc</key>
+        <string>Улучшение</string>
+        <key>mission_7_desc</key>
+        <string>Просмотр рекламы</string>
+        <key>skill_1_desc</key>
+        <string>Ускоряет призыв</string>
+        <key>skill_2_desc</key>
+        <string>Увеличивает количество ячеек призыва</string>
+        <key>passive_1_desc</key>
+        <string>Ускоряет призыв</string>
+        <key>passive_2_desc</key>
+        <string>Увеличивает количество ячеек призыва</string>
+        <key>passive_3_desc</key>
+        <string>Увеличивает доступное количество монстров</string>
+        <key>passive_4_desc</key>
+        <string>Повышает атаку</string>
+        <key>passive_5_desc</key>
+        <string>Повышает скорость атаки</string>
+        <key>passive_6_desc</key>
+        <string>Увеличивает время босса</string>
+        <key>passive_7_desc</key>
+        <string>Повышает качество призыва</string>
+        <key>passive_8_desc</key>
+        <string>Повышает частоту автопризыва</string>
+        <key>passive_9_desc</key>
+        <string>Повышает атаку (2)</string>
+        <key>skill_1_desc</key>
+        <string>-{0}% к скорости призыва</string>
+        <key>skill_2_desc</key>
+        <string>+{0} ячеек призыва</string>
+        <key>skill_3_desc</key>
+        <string>+{0} доступных ячеек</string>
+        <key>skill_4_desc</key>
+        <string>+{0}% к атаке</string>
+        <key>skill_5_desc</key>
+        <string>+{0}% к скорости атаки</string>
+        <key>skill_6_desc</key>
+        <string>+{0} сек. ко времени босса</string>
+        <key>skill_8_desc</key>
+        <string>Автопризыв каждые {0} сек.</string>
+        <key>skill_9_desc</key>
+        <string>Повышает атаку на {0}</string>
+        <key>message.toomanypets</key>
+        <string>У вас слишком много монстров.</string>
+        <key>message.cooltime</key>
+        <string>Пока недоступно.</string>
+        <key>ui.quitgame</key>
+        <string>Выход</string>
+        <key>message.quitgame</key>
+        <string>Точно выйти из игры?</string>
+        <key>message.pushagreement1</key>
+        <string>Мы оповестим вас, когда появится новый монстр.</string>
+        <key>push.offlinetitle</key>
+        <string>ДОХОД В ВАШЕ ОТСТУТСТВИЕ</string>
+        <key>push.offlinereward</key>
+        <string>Достигнут лимит оффлайн-дохода. Войдите в игру!</string>
+        <key>push.dailytitle</key>
+        <string>ЕЖЕДНЕВНАЯ НАГРАДА!</string>
+        <key>push.dailyreward</key>
+        <string>Войдите в игру и получите 300 самоцветов.</string>
+        <key>ui.daily.title</key>
+        <string>ЕЖЕДНЕВНАЯ НАГРАДА!</string>
+        <key>ui.offline.title</key>
+        <string>ДОХОД В ВАШЕ ОТСТУТСТВИЕ</string>
+        <key>ui.rating.message</key>
+        <string>Ваша оценка и отзыв
+помогут нам в создании ещё более интересных уровней!</string>
+        <key>ui.rating.button1</key>
+        <string>ОК</string>
+        <key>ui.rating.button2</key>
+        <string>Пропустить</string>
+        <key>ui.ok</key>
+        <string>ОК</string>
+        <key>ui.no</key>
+        <string>НЕТ</string>
+        <key>ui.cancel</key>
+        <string>НЕТ</string>
+        <key>ui.second</key>
+        <string>сек.</string>
+        <key>ui.auto</key>
+        <string>АВТО</string>
+        <key>ui.x2</key>
+        <string>x3</string>
+        <key>ui.main.x2</key>
+        <string>x2</string>
+        <key>ui.get</key>
+        <string>ЗАБРАТЬ</string>
+        <key>ui.continue</key>
+        <string>ПРОДОЛЖИТЬ</string>
+        <key>ui.infinite</key>
+        <string>∞</string>
+        <key>ui.title.gpgs</key>
+        <string>Игровые сервисы Google Play</string>
+        <key>uishop.buysuccess</key>
+        <string>Покупка совершена.</string>
+        <key>uishop.buyfail</key>
+        <string>Покупка не удалась.</string>
+        <key>uicommon_finish</key>
+        <string>Спасибо за игру.
+Новое обновление скоро выйдет.</string>
+        <key>error.message.adnotready</key>
+        <string>Попробуйте позже.</string>
+        <key>ui.option.restoresuccess</key>
+        <string>Восстановление покупки выполнено.</string>
+        <key>ui.option.restorefail</key>
+        <string>Восстановление покупки не удалось.</string>
+        <key>ui.collection.title</key>
+        <string>Монстр</string>
+        <key>ui.title.option</key>
+        <string>ОПЦИИ</string>
+        <key>ui.sound</key>
+        <string>Звук</string>
+        <key>ui.vibration</key>
+        <string>Вибрация</string>
+        <key>ui.push</key>
+        <string>Push</string>
+        <key>ui.terms</key>
+        <string>Условия использования</string>
+        <key>ui.privacy</key>
+        <string>Политика конфиденциальности</string>
+        <key>ui.language</key>
+        <string>Язык</string>
+        <key>ui.language.name</key>
+        <string>РУССКИЙ</string>
+        <key>ui.moregames</key>
+        <string>Ещё игры</string>
+        <key>ui.restorepurchase</key>
+        <string>Восстановление покупки</string>
+        <key>ui.vipenabled</key>
+        <string>Активировано</string>
+        <key>ui.vip.noads</key>
+        <string>Без рекламы</string>
+        <key>ui.upgrade.title</key>
+        <string>УЛУЧШЕНИЕ</string>
+        <key>ui.upgrade.cell.max</key>
+        <string>МАКС.</string>
+        <key>ui.levelup.title</key>
+        <string>НОВЫЙ УРОВЕНЬ!</string>
+        <key>ui.newmonster.title</key>
+        <string>Новый монстр!</string>
+        <key>ui.clear.title</key>
+        <string>ЗАЧИЩЕНО!</string>
+        <key>ui.fail.title</key>
+        <string>НЕУДАЧА</string>
+        <key>ui.store.title</key>
+        <string>МАГАЗИН</string>
+        <key>ui.store.onetime</key>
+        <string>Ограниченный набор</string>
+        <key>ui.store.buycomplete</key>
+        <string>Полная покупка</string>
+        <key>ui.collection.epic</key>
+        <string>Эпический</string>
+        <key>ui.collection.epicdesc</key>
+        <string>Монстр с особой способностью</string>
+        <key>ui.collection.normal</key>
+        <string>Обычный</string>
+        <key>ui.collection.normaldesc</key>
+        <string>Объедините, чтобы открыть нового монстра</string>
+        <key>ui.collection.cell.impossible</key>
+        <string>БЛОК</string>
+        <key>ui.collection.cell.complete</key>
+        <string>Полная покупка</string>
+        <key>ui.stage.title</key>
+        <string>Этап {0}</string>
+        <key>ui.stage.start</key>
+        <string>СТАРТ</string>
+        <key>ui.stage.recommend</key>
+        <string>Рекомендовано</string>
+        <key>ui.stage.attackpower</key>
+        <string>Боевая мощь</string>
+        <key>ui.game.exit</key>
+        <string>Сдаться</string>
+        <key>ui.stage.ad.power</key>
+        <string>+100% к атаке</string>
+        <key>ui.stage.ad.speed</key>
+        <string>+40% к скорости атаки</string>
+        <key>ui.stage.ad.time</key>
+        <string>+2 сек. ко времени босса</string>
+        <key>message.notenough.jewel</key>
+        <string>Недостаточно самоцветов.</string>
+        <key>message.notenough.gold</key>
+        <string>Недостаточно золота.</string>
+        <key>ui.vip1.title</key>
+        <string>VIP-НАБОР #lcoD178FF#rco1#cc</string>
+        <key>ui.vip2.title</key>
+        <string>VIP-НАБОР #lcoD178FF#rco2#cc</string>
+        <key>ui.delete.title</key>
+        <string>Выберите монстра для удаления</string>
+        <key>ui.delete.popup</key>
+        <string>Удалить?</string>
+        <key>ui.gem.popup</key>
+        <string>Просмотр рекламы увеличивает количество бесплатных самоцветов в следующем кладе.</string>
+        <key>ui.gem.max</key>
+        <string>Вы достигли лимита бесплатных самоцветов.</string>
+        <key>ui.attendance.title</key>
+        <string>Награда за сегодняшнюю игру!</string>
+        <key>ui.dungeon.title</key>
+        <string>ПОДЗЕМЕЛЬЕ</string>
+        <key>ui.dungeon.cell.JEWEL</key>
+        <string>Подземелье самоцветов</string>
+        <key>ui.dungeon.cell.GOLD</key>
+        <string>Подземелье золота</string>
+        <key>ui.dungeon.cell.SUMMON</key>
+        <string>Подземелье камней призыва</string>
+        <key>ui.dungeon.desc.JEWEL</key>
+        <string>Вы можете получить больше самоцветов.</string>
+        <key>ui.dungeon.desc.GOLD</key>
+        <string>Вы можете получить больше золота.</string>
+        <key>ui.dungeon.desc.SUMMON</key>
+        <string>Вы можете получить больше камней призыва.</string>
+        <key>ui.dragon.title</key>
+        <string>Испытания дракона ур. {0}</string>
+        <key>ui.stage.condition</key>
+        <string>Пока недоступно. (Этап {0})</string>
+        <key>ui.upgrade.atk2.desc</key>
+        <string>Удаляет монстра и навсегда удваивает атаку остальных монстров.</string>
+        <key>ui.upgrade.atk2.nomonster</key>
+        <string>У вас нет этого монстра.</string>
+        <key>ui.message.fireball.limit</key>
+        <string>Можно использовать {0} р. за этап.</string>
+        <key>ui.stage.skip</key>
+        <string>Коснитесь, чтобы пропустить</string>
+        <key>ui.dragonknight.title</key>
+        <string>Рыцарь-дракон</string>
+        <key>ui.dragonknight.summonlevel</key>
+        <string>Уровень призыва</string>
+        <key>ui.dragonknight.desc</key>
+        <string>Чем больше оружия вы объединяете, тем выше урон.</string>
+        <key>ui.dragonknight.equipment</key>
+        <string>Оружие</string>
+        <key>ui.dragonknight.equip</key>
+        <string>Использовать</string>
+        <key>ui.dragonknight.merge</key>
+        <string>Объединить</string>
+        <key>ui.dragonknight.grade</key>
+        <string>Класс</string>
+        <key>ui.dragonknight.grade.1</key>
+        <string>Обычный</string>
+        <key>ui.dragonknight.grade.2</key>
+        <string>Необычный</string>
+        <key>ui.dragonknight.grade.3</key>
+        <string>Редкий</string>
+        <key>ui.dragonknight.grade.4</key>
+        <string>Героический</string>
+        <key>ui.dragonknight.grade.5</key>
+        <string>Легендарный</string>
+        <key>ui.dragonknight.grade.6</key>
+        <string>Мифический</string>
+        <key>ui.dragonknight.grade.available</key>
+        <string>Доступный класс</string>
+        <key>ui.dragonknight.info.desc.1</key>
+        <string>Чем чаще вы призываете и объединяете оружие, тем мощнее оно становится.</string>
+        <key>ui.dragonknight.info.desc.2</key>
+        <string>Внешний вид рыцаря-дракона меняется в зависимости от класса его оружия.</string>
+        <key>ui.dragonknight.info.desc.3</key>
+        <string>Чем выше уровень призыва, тем больше у вас шансов получить высококлассное снаряжение.</string>
+        <key>ui.redsummonstone</key>
+        <string>Красный камень призыва</string>
+        <key>push.evening.title</key>
+        <string>Вечерняя награда поддержки</string>
+        <key>push.evening.message</key>
+        <string>Зайдите в игру и получите {0} призывов оружия!</string>
+        <key>push.weekend.title</key>
+        <string>Особая награда за выходные</string>
+        <key>ui.monsterpass.title</key>
+        <string>Пропуск монстров</string>
+        <key>ui.monsterpass.description</key>
+        <string>Чем чаще вы выполняете слияния, тем лучше награды!
+Продолжайте объединять, и вы получите особые награды!</string>
+        <key>ui.monsterpass.season</key>
+        <string>{0}-й сезон</string>
+        <key>ui.monsterpass.remaintime</key>
+        <string>Время до окончания сезона</string>
+        <key>ui.monsterpass.buy</key>
+        <string>Купить пропуск монстров</string>
+        <key>ui.shop.dailypackage</key>
+        <string>Ежедневный набор</string>
+        <key>ui.shop.weeklypackage</key>
+        <string>Еженедельный набор</string>
+        <key>ui.shop.monsthlypackage</key>
+        <string>Ежемесячный набор</string>
+        <key>ui.shop.2xbonusevent</key>
+        <string>Двойной бонус за первую покупку!</string>
+        <key>marketadd</key>
+        <string>Развивайте своего рыцаря-дракона!
+Призывайте уникальное оружие, и вы получите невероятного рыцаря-дракона!</string>
+        <key>ui.growth.unlock</key>
+        <string>Get Elite Rewards</string>
+        <key>ui.growth.title</key>
+        <string>Growth Support</string>
+        <key>ui.growth.stage</key>
+        <string>Stage</string>
+        <key>ui.growth.free</key>
+        <string>Free</string>
+        <key>ui.growth.elite</key>
+        <string>Elite</string>
+        <key>ui.dailyreward.title</key>
+        <string>Playtime Rewards</string>
+        <key>ui.dailyreward.time</key>
+        <string>Play Time Today</string>
+        <key>ui.ranking.title</key>
+        <string>Ranking</string>
+        <key>ui.ranking.stage</key>
+        <string>Stage</string>
+        <key>ui.ranking.group</key>
+        <string>Group</string>
+        <key>ui.nickname.desc</key>
+        <string>Please enter your nickname.</string>
+        <key>ui.nickname.fail</key>
+        <string>Invalid nickname
+You can enter from 2~8 characters, excluding special characters.</string>
+        <key>ui.network.fail</key>
+        <string>Network is unstable. \nPlease try again later.</string>
+        <key>.</key>
+        <string></string>
+    </dict>
+</plist>

@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>mission_1_desc</key>
+        <string>發現第 {0} 隻怪物</string>
+        <key>mission_2_desc</key>
+        <string>通關關卡 {0}</string>
+        <key>mission_3_desc</key>
+        <string>通關關卡 {0} 次</string>
+        <key>mission_4_desc</key>
+        <string>召喚怪物</string>
+        <key>mission_5_desc</key>
+        <string>融合怪物</string>
+        <key>mission_6_desc</key>
+        <string>升級</string>
+        <key>mission_7_desc</key>
+        <string>觀看廣告</string>
+        <key>skill_1_desc</key>
+        <string>減少召喚速度</string>
+        <key>skill_2_desc</key>
+        <string>增加召喚欄位</string>
+        <key>passive_1_desc</key>
+        <string>減少召喚速度</string>
+        <key>passive_2_desc</key>
+        <string>增加召喚欄位</string>
+        <key>passive_3_desc</key>
+        <string>增加持有欄位</string>
+        <key>passive_4_desc</key>
+        <string>攻擊力增加</string>
+        <key>passive_5_desc</key>
+        <string>攻擊速度增加</string>
+        <key>passive_6_desc</key>
+        <string>Boss時間增加</string>
+        <key>passive_7_desc</key>
+        <string>召喚等級增加</string>
+        <key>passive_8_desc</key>
+        <string>減少自動召喚冷卻時間</string>
+        <key>passive_9_desc</key>
+        <string>攻擊力增加 2</string>
+        <key>skill_1_desc</key>
+        <string>召喚速度減少 {0}%</string>
+        <key>skill_2_desc</key>
+        <string>增加 {0} 個召喚欄位</string>
+        <key>skill_3_desc</key>
+        <string>增加 {0} 個持有欄位</string>
+        <key>skill_4_desc</key>
+        <string>攻擊力增加 {0}%</string>
+        <key>skill_5_desc</key>
+        <string>攻擊速度增加 {0}%</string>
+        <key>skill_6_desc</key>
+        <string>Boss時間增加 {0} 秒</string>
+        <key>skill_8_desc</key>
+        <string>每 {0} 秒自動召喚</string>
+        <key>skill_9_desc</key>
+        <string>攻擊力增加 {0} 倍</string>
+        <key>message.toomanypets</key>
+        <string>怪物太多了。</string>
+        <key>message.cooltime</key>
+        <string>還不能使用。</string>
+        <key>ui.quitgame</key>
+        <string>結束遊戲</string>
+        <key>message.quitgame</key>
+        <string>請問要結束遊戲嗎？</string>
+        <key>message.pushagreement1</key>
+        <string>新的怪物出現時，我會通知你的。</string>
+        <key>push.offlinetitle</key>
+        <string>離線收益</string>
+        <key>push.offlinereward</key>
+        <string>馬上遊玩吧！</string>
+        <key>push.dailytitle</key>
+        <string>本日的出席獎勵!</string>
+        <key>push.dailyreward</key>
+        <string>立即簽到以獲取300個寶石</string>
+        <key>ui.daily.title</key>
+        <string>本日的出席獎勵!</string>
+        <key>ui.offline.title</key>
+        <string>離線收益</string>
+        <key>ui.rating.message</key>
+        <string>評論遊戲且給予星數， 
+有助於創造更多、
+更有趣的關卡！</string>
+        <key>ui.rating.button1</key>
+        <string>確認</string>
+        <key>ui.rating.button2</key>
+        <string>跳過</string>
+        <key>ui.ok</key>
+        <string>確認</string>
+        <key>ui.no</key>
+        <string>沒有</string>
+        <key>ui.cancel</key>
+        <string>沒有</string>
+        <key>ui.second</key>
+        <string>s</string>
+        <key>ui.auto</key>
+        <string>自動</string>
+        <key>ui.x2</key>
+        <string>X3</string>
+        <key>ui.main.x2</key>
+        <string>X2</string>
+        <key>ui.get</key>
+        <string>得到</string>
+        <key>ui.continue</key>
+        <string>繼續</string>
+        <key>ui.infinite</key>
+        <string>∞</string>
+        <key>ui.title.gpgs</key>
+        <string>Google Play Game Services</string>
+        <key>uishop.buysuccess</key>
+        <string>購買成功。</string>
+        <key>uishop.buyfail</key>
+        <string>購買失敗。</string>
+        <key>uicommon_finish</key>
+        <string>謝謝您的使用，
+預計將要改版。</string>
+        <key>error.message.adnotready</key>
+        <string>請稍後再試。</string>
+        <key>ui.option.restoresuccess</key>
+        <string>還原購買物品成功。</string>
+        <key>ui.option.restorefail</key>
+        <string>還原購買物品失敗。</string>
+        <key>ui.collection.title</key>
+        <string>怪物</string>
+        <key>ui.title.option</key>
+        <string>選項</string>
+        <key>ui.sound</key>
+        <string>聲音</string>
+        <key>ui.vibration</key>
+        <string>震動</string>
+        <key>ui.push</key>
+        <string>推</string>
+        <key>ui.terms</key>
+        <string>條款</string>
+        <key>ui.privacy</key>
+        <string>隱私政策</string>
+        <key>ui.language</key>
+        <string>語言</string>
+        <key>ui.language.name</key>
+        <string>繁體中文</string>
+        <key>ui.moregames</key>
+        <string>更多遊戲</string>
+        <key>ui.restorepurchase</key>
+        <string>還原購買物品</string>
+        <key>ui.vipenabled</key>
+        <string>活性</string>
+        <key>ui.vip.noads</key>
+        <string>No Ads</string>
+        <key>ui.upgrade.title</key>
+        <string>升級</string>
+        <key>ui.upgrade.cell.max</key>
+        <string>MAX</string>
+        <key>ui.levelup.title</key>
+        <string>等級提升！</string>
+        <key>ui.newmonster.title</key>
+        <string>新怪物！</string>
+        <key>ui.clear.title</key>
+        <string>成功</string>
+        <key>ui.fail.title</key>
+        <string>失敗</string>
+        <key>ui.store.title</key>
+        <string>商店</string>
+        <key>ui.store.onetime</key>
+        <string>1 次限定商品</string>
+        <key>ui.store.buycomplete</key>
+        <string>購買完成</string>
+        <key>ui.collection.epic</key>
+        <string>史詩</string>
+        <key>ui.collection.epicdesc</key>
+        <string>擁有特殊能力的怪物</string>
+        <key>ui.collection.normal</key>
+        <string>一般</string>
+        <key>ui.collection.normaldesc</key>
+        <string>透過融合發現新的怪物吧</string>
+        <key>ui.collection.cell.impossible</key>
+        <string>關</string>
+        <key>ui.collection.cell.complete</key>
+        <string>購買完成</string>
+        <key>ui.stage.title</key>
+        <string>關卡 {0}</string>
+        <key>ui.stage.start</key>
+        <string>開始</string>
+        <key>ui.stage.recommend</key>
+        <string>推薦戰力</string>
+        <key>ui.stage.attackpower</key>
+        <string>目前戰力</string>
+        <key>ui.game.exit</key>
+        <string>放棄</string>
+        <key>ui.stage.ad.power</key>
+        <string>攻擊力增加 100%</string>
+        <key>ui.stage.ad.speed</key>
+        <string>攻擊速度增加 40%</string>
+        <key>ui.stage.ad.time</key>
+        <string>Boss時間增加 2 秒</string>
+        <key>message.notenough.jewel</key>
+        <string>寶石不足。</string>
+        <key>message.notenough.gold</key>
+        <string>黃金不足。</string>
+        <key>ui.vip1.title</key>
+        <string>VIP PACKAGE #lcoD178FF#rco1#cc</string>
+        <key>ui.vip2.title</key>
+        <string>VIP PACKAGE #lcoD178FF#rco2#cc</string>
+        <key>ui.delete.title</key>
+        <string>請選擇要移除的怪物</string>
+        <key>ui.delete.popup</key>
+        <string>確定要移除嗎？</string>
+        <key>ui.gem.popup</key>
+        <string>觀看廣告可增加下次獲得的免費寶石數量。</string>
+        <key>ui.gem.max</key>
+        <string>目前持有的免費寶石數量已達上限。</string>
+        <key>ui.attendance.title</key>
+        <string>本日的出席獎勵！</string>
+        <key>ui.dungeon.title</key>
+        <string>DUNGEON</string>
+        <key>ui.dungeon.cell.JEWEL</key>
+        <string>Gem Dungeon</string>
+        <key>ui.dungeon.cell.GOLD</key>
+        <string>Gold Dungeon</string>
+        <key>ui.dungeon.cell.SUMMON</key>
+        <string>Summon Stone Dungeon</string>
+        <key>ui.dungeon.desc.JEWEL</key>
+        <string>You can obtain more Gem</string>
+        <key>ui.dungeon.desc.GOLD</key>
+        <string>You can obtain more Gold</string>
+        <key>ui.dungeon.desc.SUMMON</key>
+        <string>You can obtain more Summon Stone</string>
+        <key>ui.dragon.title</key>
+        <string>Dragon Trials Lv {0}</string>
+        <key>ui.stage.condition</key>
+        <string>還不能使用。(關卡 {0})</string>
+        <key>ui.upgrade.atk2.desc</key>
+        <string>打敗該怪獸，所有怪獸的攻擊力將永久增加 2 倍。</string>
+        <key>ui.upgrade.atk2.nomonster</key>
+        <string>尚未擁有該怪獸。</string>
+        <key>ui.message.fireball.limit</key>
+        <string>每個關卡可使用 {0} 次。</string>
+        <key>ui.stage.skip</key>
+        <string>輕觸即可快速進行</string>
+        <key>ui.dragonknight.title</key>
+        <string>龍騎士</string>
+        <key>ui.dragonknight.summonlevel</key>
+        <string>召喚等級</string>
+        <key>ui.dragonknight.desc</key>
+        <string>武器合成越多次就會變得越強。</string>
+        <key>ui.dragonknight.equipment</key>
+        <string>武器</string>
+        <key>ui.dragonknight.equip</key>
+        <string>裝備</string>
+        <key>ui.dragonknight.merge</key>
+        <string>合成</string>
+        <key>ui.dragonknight.grade</key>
+        <string>級別</string>
+        <key>ui.dragonknight.grade.1</key>
+        <string>級別</string>
+        <key>ui.dragonknight.grade.2</key>
+        <string>一般</string>
+        <key>ui.dragonknight.grade.3</key>
+        <string>高級</string>
+        <key>ui.dragonknight.grade.4</key>
+        <string>稀有</string>
+        <key>ui.dragonknight.grade.5</key>
+        <string>英雄</string>
+        <key>ui.dragonknight.grade.6</key>
+        <string>傳說</string>
+        <key>ui.dragonknight.grade.available</key>
+        <string>神話</string>
+        <key>ui.dragonknight.info.desc.1</key>
+        <string>召喚武器並進行合成，合成越多次能獲得更棒的武器。</string>
+        <key>ui.dragonknight.info.desc.2</key>
+        <string>隨著武器級別的不同，龍騎士的外型也會跟著變化。</string>
+        <key>ui.dragonknight.info.desc.3</key>
+        <string>召喚等級越高，獲得高等級別裝備的機率也會增加。</string>
+        <key>ui.redsummonstone</key>
+        <string>赤紅召喚石</string>
+        <key>push.evening.title</key>
+        <string>晚間支援獎勵</string>
+        <key>push.evening.message</key>
+        <string>現在登入可召喚 {0} 次武器！</string>
+        <key>push.weekend.title</key>
+        <string>週末特別獎勵</string>
+        <key>ui.monsterpass.title</key>
+        <string>怪獸通行證</string>
+        <key>ui.monsterpass.description</key>
+        <string>融合越多次，獎勵也會越多！
+請不斷融合，獲取特別獎勵</string>
+        <key>ui.monsterpass.season</key>
+        <string>第 {0} 賽季</string>
+        <key>ui.monsterpass.remaintime</key>
+        <string>賽季結束前的剩餘時間</string>
+        <key>ui.monsterpass.buy</key>
+        <string>怪獸通行證購買</string>
+        <key>ui.shop.dailypackage</key>
+        <string>每日禮包</string>
+        <key>ui.shop.weeklypackage</key>
+        <string>每週禮包</string>
+        <key>ui.shop.monsthlypackage</key>
+        <string>每月禮包</string>
+        <key>ui.shop.2xbonusevent</key>
+        <string>首次購買享 2 倍獎勵！</string>
+        <key>marketadd</key>
+        <string>請讓龍騎士變得更強
+召喚專屬武器，獲取華麗造型的龍騎士吧</string>
+        <key>ui.growth.unlock</key>
+        <string>皇家獎勵</string>
+        <key>ui.growth.title</key>
+        <string>成長支援</string>
+        <key>ui.growth.stage</key>
+        <string>關卡</string>
+        <key>ui.growth.free</key>
+        <string>免費</string>
+        <key>ui.growth.elite</key>
+        <string>皇家</string>
+        <key>ui.dailyreward.title</key>
+        <string>遊戲時間獎勵</string>
+        <key>ui.dailyreward.time</key>
+        <string>今天的遊戲時間</string>
+        <key>ui.ranking.title</key>
+        <string>排名</string>
+        <key>ui.ranking.stage</key>
+        <string>關卡</string>
+        <key>ui.ranking.group</key>
+        <string>Group</string>
+        <key>ui.nickname.desc</key>
+        <string>請輸入你的暱稱。</string>
+        <key>ui.nickname.fail</key>
+        <string>不可用的暱稱。
+您可以輸入2到8個字符，不包括特殊字符。</string>
+        <key>ui.network.fail</key>
+        <string>網路不穩定。\n請稍後再試。</string>
+        <key>.</key>
+        <string>0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ</string>
+    </dict>
+</plist>

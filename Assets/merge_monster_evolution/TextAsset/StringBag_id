@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>mission_1_desc</key>
+        <string>Penemuan Monster {0}</string>
+        <key>mission_2_desc</key>
+        <string>Selesaikan stage {0}</string>
+        <key>mission_3_desc</key>
+        <string>Selesaikan stage {0} kali</string>
+        <key>mission_4_desc</key>
+        <string>Panggil Monster</string>
+        <key>mission_5_desc</key>
+        <string>Gabungkan Monster</string>
+        <key>mission_6_desc</key>
+        <string>Upgrade</string>
+        <key>mission_7_desc</key>
+        <string>Tonton iklan</string>
+        <key>skill_1_desc</key>
+        <string>Mengurangi SPD pemanggilan</string>
+        <key>skill_2_desc</key>
+        <string>Menambah Slot pemanggilan</string>
+        <key>passive_1_desc</key>
+        <string>Mengurangi SPD pemanggilan</string>
+        <key>passive_2_desc</key>
+        <string>Menambah Slot pemanggilan</string>
+        <key>passive_3_desc</key>
+        <string>Menambah slot monster yang dimiliki</string>
+        <key>passive_4_desc</key>
+        <string>Meningkatkan ATK</string>
+        <key>passive_5_desc</key>
+        <string>Meningkatkan ATK SPD</string>
+        <key>passive_6_desc</key>
+        <string>Menambah durasi bos</string>
+        <key>passive_7_desc</key>
+        <string>Meningkatkan grade panggilan</string>
+        <key>passive_8_desc</key>
+        <string>Mengurangi waktu tunggu auto-panggil</string>
+        <key>passive_9_desc</key>
+        <string>Meningkatkan ATK 2</string>
+        <key>skill_1_desc</key>
+        <string>-{0}% SPD pemanggilan</string>
+        <key>skill_2_desc</key>
+        <string>+{0} slot pemanggilan</string>
+        <key>skill_3_desc</key>
+        <string>+{0} slot monster yang dimiliki</string>
+        <key>skill_4_desc</key>
+        <string>+{0}% ATK</string>
+        <key>skill_5_desc</key>
+        <string>+{0}% ATK SPD</string>
+        <key>skill_6_desc</key>
+        <string>+{0}dtk durasi bos</string>
+        <key>skill_8_desc</key>
+        <string>Auto-panggil setiap {0} dtk</string>
+        <key>skill_9_desc</key>
+        <string>Meningkatkan ATK x {0}</string>
+        <key>message.toomanypets</key>
+        <string>Ada terlalu banyak monster.</string>
+        <key>message.cooltime</key>
+        <string>Belum tersedia.</string>
+        <key>ui.quitgame</key>
+        <string>Keluar game</string>
+        <key>message.quitgame</key>
+        <string>Kamu ingin keluar game?</string>
+        <key>message.pushagreement1</key>
+        <string>Kami akan informasikan kalau ada monster baru yang muncul.</string>
+        <key>push.offlinetitle</key>
+        <string>PENDAPATAN OFFLINE</string>
+        <key>push.offlinereward</key>
+        <string>Pendapatan offline sudah penuh. Ayo main!</string>
+        <key>push.dailytitle</key>
+        <string>HADIAH HARIAN!</string>
+        <key>push.dailyreward</key>
+        <string>Login sekarang dan dapatkan 300 permata.</string>
+        <key>ui.daily.title</key>
+        <string>HADIAH HARIAN!</string>
+        <key>ui.offline.title</key>
+        <string>PENDAPATAN OFFLINE</string>
+        <key>ui.rating.message</key>
+        <string>Kalau kamu beri kami ulasan dan rating bintang, 
+kami akan terbantu dalam membuat lebih banyak fitur dan level yang lebih bagus!</string>
+        <key>ui.rating.button1</key>
+        <string>OKE</string>
+        <key>ui.rating.button2</key>
+        <string>Lewati</string>
+        <key>ui.ok</key>
+        <string>OKE</string>
+        <key>ui.no</key>
+        <string>TIDAK</string>
+        <key>ui.cancel</key>
+        <string>TIDAK</string>
+        <key>ui.second</key>
+        <string>dtk</string>
+        <key>ui.auto</key>
+        <string>AUTO</string>
+        <key>ui.x2</key>
+        <string>x3</string>
+        <key>ui.main.x2</key>
+        <string>x2</string>
+        <key>ui.get</key>
+        <string>DAPATKAN</string>
+        <key>ui.continue</key>
+        <string>LANJUT</string>
+        <key>ui.infinite</key>
+        <string>∞</string>
+        <key>ui.title.gpgs</key>
+        <string>Layanan Google Play Game</string>
+        <key>uishop.buysuccess</key>
+        <string>Pembelian berhasil.</string>
+        <key>uishop.buyfail</key>
+        <string>Pembelian gagal.</string>
+        <key>uicommon_finish</key>
+        <string>Terima kasih sudah bemain.
+Ada jadwal update baru.</string>
+        <key>error.message.adnotready</key>
+        <string>Silakan coba lagi nanti.</string>
+        <key>ui.option.restoresuccess</key>
+        <string>Pengembalian pembelian berhasil.</string>
+        <key>ui.option.restorefail</key>
+        <string>Pengembalian pembelian gagal.</string>
+        <key>ui.collection.title</key>
+        <string>Monster</string>
+        <key>ui.title.option</key>
+        <string>OPSI</string>
+        <key>ui.sound</key>
+        <string>Suara</string>
+        <key>ui.vibration</key>
+        <string>Getar</string>
+        <key>ui.push</key>
+        <string>Tekan</string>
+        <key>ui.terms</key>
+        <string>Ketentuan Penggunaan</string>
+        <key>ui.privacy</key>
+        <string>Kebijakan Privasi</string>
+        <key>ui.language</key>
+        <string>Bahasa</string>
+        <key>ui.language.name</key>
+        <string>INGGRIS</string>
+        <key>ui.moregames</key>
+        <string>Game Lainnya</string>
+        <key>ui.restorepurchase</key>
+        <string>Pengembalian pembelian</string>
+        <key>ui.vipenabled</key>
+        <string>Aktif</string>
+        <key>ui.vip.noads</key>
+        <string>Tanpa Iklan</string>
+        <key>ui.upgrade.title</key>
+        <string>UPGRADE</string>
+        <key>ui.upgrade.cell.max</key>
+        <string>MAKS</string>
+        <key>ui.levelup.title</key>
+        <string>NAIK LEVEL!</string>
+        <key>ui.newmonster.title</key>
+        <string>Ada monster baru!</string>
+        <key>ui.clear.title</key>
+        <string>SELESAI!</string>
+        <key>ui.fail.title</key>
+        <string>GAGAL</string>
+        <key>ui.store.title</key>
+        <string>SIMPAN</string>
+        <key>ui.store.onetime</key>
+        <string>Paket Terbatas</string>
+        <key>ui.store.buycomplete</key>
+        <string>Selesaikan Pembelian</string>
+        <key>ui.collection.epic</key>
+        <string>Epik</string>
+        <key>ui.collection.epicdesc</key>
+        <string>Monster dengan kemampuan khusus</string>
+        <key>ui.collection.normal</key>
+        <string>Biasa</string>
+        <key>ui.collection.normaldesc</key>
+        <string>Gabungkan untuk temukan monster baru</string>
+        <key>ui.collection.cell.impossible</key>
+        <string>KUNCI</string>
+        <key>ui.collection.cell.complete</key>
+        <string>Selesaikan Pembelian</string>
+        <key>ui.stage.title</key>
+        <string>Stage {0}</string>
+        <key>ui.stage.start</key>
+        <string>MULAI</string>
+        <key>ui.stage.recommend</key>
+        <string>Rekomendasi</string>
+        <key>ui.stage.attackpower</key>
+        <string>Kekuatan Tempur</string>
+        <key>ui.game.exit</key>
+        <string>Menyerah</string>
+        <key>ui.stage.ad.power</key>
+        <string>+100% ATK</string>
+        <key>ui.stage.ad.speed</key>
+        <string>+40% ATK SPD</string>
+        <key>ui.stage.ad.time</key>
+        <string>+2dtk durasi bos</string>
+        <key>message.notenough.jewel</key>
+        <string>Permata tidak mencukupi.</string>
+        <key>message.notenough.gold</key>
+        <string>Emas tidak mencukupi.</string>
+        <key>ui.vip1.title</key>
+        <string>PAKET VIP #lcoD178FF#rco1#cc</string>
+        <key>ui.vip2.title</key>
+        <string>PAKET VIP #lcoD178FF#rco2#cc</string>
+        <key>ui.delete.title</key>
+        <string>Pilih monster yang akan dihapus</string>
+        <key>ui.delete.popup</key>
+        <string>Hapus?</string>
+        <key>ui.gem.popup</key>
+        <string>Menonton iklan akan menambah jumlah permata gratis di dalam harta karun berikutnya.</string>
+        <key>ui.gem.max</key>
+        <string>Kamu sudah mencapai jumlah maksimum permata gratis.</string>
+        <key>ui.attendance.title</key>
+        <string>Hadiah karena sudah bermain hari ini!</string>
+        <key>ui.dungeon.title</key>
+        <string>DUNGEON</string>
+        <key>ui.dungeon.cell.JEWEL</key>
+        <string>Dungeon Permata</string>
+        <key>ui.dungeon.cell.GOLD</key>
+        <string>Dungeon Emas</string>
+        <key>ui.dungeon.cell.SUMMON</key>
+        <string>Dungeon Batu Pemanggil</string>
+        <key>ui.dungeon.desc.JEWEL</key>
+        <string>Kamu bisa memperoleh lebih banyak permata.</string>
+        <key>ui.dungeon.desc.GOLD</key>
+        <string>Kamu bisa memperoleh lebih banyak emas.</string>
+        <key>ui.dungeon.desc.SUMMON</key>
+        <string>Kamu bisa memperoleh lebih banyak batu pemanggil.</string>
+        <key>ui.dragon.title</key>
+        <string>Ujian Naga Lv {0}</string>
+        <key>ui.stage.condition</key>
+        <string>Belum tersedia. (Stage {0})</string>
+        <key>ui.upgrade.atk2.desc</key>
+        <string>Menghapus monster tersebut dan menggandakan ATK semua monster secara permanen.</string>
+        <key>ui.upgrade.atk2.nomonster</key>
+        <string>Kamu tidak punya monster tersebut.</string>
+        <key>ui.message.fireball.limit</key>
+        <string>Bisa digunakan {0} kali per stage.</string>
+        <key>ui.stage.skip</key>
+        <string>Ketuk untuk melewati</string>
+        <key>ui.dragonknight.title</key>
+        <string>Kesatria Naga</string>
+        <key>ui.dragonknight.summonlevel</key>
+        <string>Level Pemanggilan</string>
+        <key>ui.dragonknight.desc</key>
+        <string>Semakin sering memadukan senjata, semakin kuat hasilnya.</string>
+        <key>ui.dragonknight.equipment</key>
+        <string>Senjata</string>
+        <key>ui.dragonknight.equip</key>
+        <string>Pakai</string>
+        <key>ui.dragonknight.merge</key>
+        <string>Gabungkan</string>
+        <key>ui.dragonknight.grade</key>
+        <string>Grade</string>
+        <key>ui.dragonknight.grade.1</key>
+        <string>Biasa</string>
+        <key>ui.dragonknight.grade.2</key>
+        <string>Tak biasa</string>
+        <key>ui.dragonknight.grade.3</key>
+        <string>Langka</string>
+        <key>ui.dragonknight.grade.4</key>
+        <string>Heroik</string>
+        <key>ui.dragonknight.grade.5</key>
+        <string>Legendaris</string>
+        <key>ui.dragonknight.grade.6</key>
+        <string>Mitos</string>
+        <key>ui.dragonknight.grade.available</key>
+        <string>Grade yang tersedia</string>
+        <key>ui.dragonknight.info.desc.1</key>
+        <string>Semakin sering memanggil dan menggabungkan senjata, semakin bagus senjata yang akan diperoleh.</string>
+        <key>ui.dragonknight.info.desc.2</key>
+        <string>Penampilan Kesatria Naga akan berubah sesuai dengan grade senjata.</string>
+        <key>ui.dragonknight.info.desc.3</key>
+        <string>Semakin tinggi level pemanggilan, semakin tinggi peluang memperoleh perlengkapan grade tinggi.</string>
+        <key>ui.redsummonstone</key>
+        <string>Batu pemanggil merah</string>
+        <key>push.evening.title</key>
+        <string>Hadiah Support Malam Hari</string>
+        <key>push.evening.message</key>
+        <string>Login untuk mendapatkan {0} pemanggilan senjata!</string>
+        <key>push.weekend.title</key>
+        <string>Hadiah Spesial Akhir Pekan</string>
+        <key>ui.monsterpass.title</key>
+        <string>Monster Pass</string>
+        <key>ui.monsterpass.description</key>
+        <string>Semakin banyak kamu menggabungkan, semakin bagus hadiahnya!
+Terus gabungkan agar dapat hadiah spesial!</string>
+        <key>ui.monsterpass.season</key>
+        <string>Musim {0}</string>
+        <key>ui.monsterpass.remaintime</key>
+        <string>Sisa durasi Musim</string>
+        <key>ui.monsterpass.buy</key>
+        <string>Beli Monster Pass</string>
+        <key>ui.shop.dailypackage</key>
+        <string>Paket Harian</string>
+        <key>ui.shop.weeklypackage</key>
+        <string>Paket Mingguan</string>
+        <key>ui.shop.monsthlypackage</key>
+        <string>Paket Bulanan</string>
+        <key>ui.shop.2xbonusevent</key>
+        <string>Pembelian Pertama Bonus Dobel!</string>
+        <key>marketadd</key>
+        <string>Perkuat Kesatria Naga punyamu!
+Panggil senjata eksklusif untuk mendapatkan Kesatria Naga super-keren!</string>
+        <key>ui.growth.unlock</key>
+        <string>Get Elite Rewards</string>
+        <key>ui.growth.title</key>
+        <string>Growth Support</string>
+        <key>ui.growth.stage</key>
+        <string>Stage</string>
+        <key>ui.growth.free</key>
+        <string>Free</string>
+        <key>ui.growth.elite</key>
+        <string>Elite</string>
+        <key>ui.dailyreward.title</key>
+        <string>Playtime Rewards</string>
+        <key>ui.dailyreward.time</key>
+        <string>Play Time Today</string>
+        <key>ui.ranking.title</key>
+        <string>Ranking</string>
+        <key>ui.ranking.stage</key>
+        <string>Stage</string>
+        <key>ui.ranking.group</key>
+        <string>Group</string>
+        <key>ui.nickname.desc</key>
+        <string>Please enter your nickname.</string>
+        <key>ui.nickname.fail</key>
+        <string>Invalid nickname
+You can enter from 2~8 characters, excluding special characters.</string>
+        <key>ui.network.fail</key>
+        <string>Network is unstable. \nPlease try again later.</string>
+        <key>.</key>
+        <string></string>
+    </dict>
+</plist>

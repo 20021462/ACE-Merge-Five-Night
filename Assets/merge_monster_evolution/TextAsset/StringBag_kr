@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>mission_1_desc</key>
+        <string>{0}번째 몬스터 발견</string>
+        <key>mission_2_desc</key>
+        <string>스테이지 {0} 클리어</string>
+        <key>mission_3_desc</key>
+        <string>스테이지 {0}회 클리어</string>
+        <key>mission_4_desc</key>
+        <string>몬스터 소환</string>
+        <key>mission_5_desc</key>
+        <string>몬스터 머지</string>
+        <key>mission_6_desc</key>
+        <string>업그레이드</string>
+        <key>mission_7_desc</key>
+        <string>광고 시청</string>
+        <key>skill_1_desc</key>
+        <string>스킬 1</string>
+        <key>skill_2_desc</key>
+        <string>스킬 2</string>
+        <key>passive_1_desc</key>
+        <string>소환 속도 감소</string>
+        <key>passive_2_desc</key>
+        <string>소환 슬롯 증가</string>
+        <key>passive_3_desc</key>
+        <string>보유 슬롯 증가</string>
+        <key>passive_4_desc</key>
+        <string>공격력 증가</string>
+        <key>passive_5_desc</key>
+        <string>공격속도 증가</string>
+        <key>passive_6_desc</key>
+        <string>보스 시간 증가</string>
+        <key>passive_7_desc</key>
+        <string>소환 등급 증가</string>
+        <key>passive_8_desc</key>
+        <string>자동 소환 쿨타임 감소</string>
+        <key>passive_9_desc</key>
+        <string>공격력 증가2</string>
+        <key>skill_1_desc</key>
+        <string>소환 속도 {0}% 감소</string>
+        <key>skill_2_desc</key>
+        <string>소환 슬롯 {0}개 증가</string>
+        <key>skill_3_desc</key>
+        <string>보유 슬롯 {0}개 증가</string>
+        <key>skill_4_desc</key>
+        <string>공격력 {0}% 증가</string>
+        <key>skill_5_desc</key>
+        <string>공격속도 {0}% 증가</string>
+        <key>skill_6_desc</key>
+        <string>보스 시간 {0}초 증가</string>
+        <key>skill_8_desc</key>
+        <string>{0}초마다 자동 소환</string>
+        <key>skill_9_desc</key>
+        <string>공격력 {0}배 증가</string>
+        <key>message.toomanypets</key>
+        <string>몬스터가 너무 많이 있습니다.</string>
+        <key>message.cooltime</key>
+        <string>아직 사용할 수 없습니다.</string>
+        <key>ui.quitgame</key>
+        <string>게임 종료</string>
+        <key>message.quitgame</key>
+        <string>게임을 종료하시겠습니까?</string>
+        <key>message.pushagreement1</key>
+        <string>새로운 몬스터가 등장하면 알려드릴게요.</string>
+        <key>push.offlinetitle</key>
+        <string>오프라인 보상</string>
+        <key>push.offlinereward</key>
+        <string>오프라인 보상이 가득찼습니다. 지금 접속하세요!</string>
+        <key>push.dailytitle</key>
+        <string>일일 보상!</string>
+        <key>push.dailyreward</key>
+        <string>지금 접속하시면 보석 300개를 드립니다.</string>
+        <key>ui.daily.title</key>
+        <string>일일 보상!</string>
+        <key>ui.offline.title</key>
+        <string>오프라인 보상</string>
+        <key>ui.rating.message</key>
+        <string>게임을 평가하고 별점을 주시면 
+더 많고 재미있는 레벨을 
+만드는데 도움이 됩니다!</string>
+        <key>ui.rating.button1</key>
+        <string>확인</string>
+        <key>ui.rating.button2</key>
+        <string>다음에</string>
+        <key>ui.ok</key>
+        <string>확인</string>
+        <key>ui.no</key>
+        <string>아니오</string>
+        <key>ui.cancel</key>
+        <string>닫기</string>
+        <key>ui.second</key>
+        <string>s</string>
+        <key>ui.auto</key>
+        <string>자동</string>
+        <key>ui.x2</key>
+        <string>x3</string>
+        <key>ui.main.x2</key>
+        <string>x2</string>
+        <key>ui.get</key>
+        <string>얻기</string>
+        <key>ui.continue</key>
+        <string>계속하기</string>
+        <key>ui.infinite</key>
+        <string>∞</string>
+        <key>ui.title.gpgs</key>
+        <string>구글 플레이 게임 서비스</string>
+        <key>uishop.buysuccess</key>
+        <string>구매에 성공했습니다.</string>
+        <key>uishop.buyfail</key>
+        <string>구매에 실패했습니다.</string>
+        <key>uicommon_finish</key>
+        <string>플레이 해주셔서 감사합니다.
+업데이트 예정입니다.</string>
+        <key>error.message.adnotready</key>
+        <string>잠시 후 재시도 해주세요.</string>
+        <key>ui.option.restoresuccess</key>
+        <string>구매 복구에 성공했습니다.</string>
+        <key>ui.option.restorefail</key>
+        <string>구매 복구에 실패했습니다.</string>
+        <key>ui.collection.title</key>
+        <string>몬스터</string>
+        <key>ui.title.option</key>
+        <string>옵션</string>
+        <key>ui.sound</key>
+        <string>소리</string>
+        <key>ui.vibration</key>
+        <string>진동</string>
+        <key>ui.push</key>
+        <string>알림</string>
+        <key>ui.terms</key>
+        <string>약관</string>
+        <key>ui.privacy</key>
+        <string>개인정보정책</string>
+        <key>ui.language</key>
+        <string>언어</string>
+        <key>ui.language.name</key>
+        <string>한국어</string>
+        <key>ui.moregames</key>
+        <string>추천 게임</string>
+        <key>ui.restorepurchase</key>
+        <string>구매 복구</string>
+        <key>ui.vipenabled</key>
+        <string>활성</string>
+        <key>ui.vip.noads</key>
+        <string>광고제거</string>
+        <key>ui.upgrade.title</key>
+        <string>업그레이드</string>
+        <key>ui.upgrade.cell.max</key>
+        <string>최대</string>
+        <key>ui.levelup.title</key>
+        <string>레벨업!</string>
+        <key>ui.newmonster.title</key>
+        <string>새로운 몬스터!</string>
+        <key>ui.clear.title</key>
+        <string>클리어!</string>
+        <key>ui.fail.title</key>
+        <string>실패</string>
+        <key>ui.store.title</key>
+        <string>상점</string>
+        <key>ui.store.onetime</key>
+        <string>1회 한정 상품</string>
+        <key>ui.store.buycomplete</key>
+        <string>구매완료</string>
+        <key>ui.collection.epic</key>
+        <string>에픽</string>
+        <key>ui.collection.epicdesc</key>
+        <string>특별한 능력을 지닌 몬스터</string>
+        <key>ui.collection.normal</key>
+        <string>일반</string>
+        <key>ui.collection.normaldesc</key>
+        <string>머지하여 새로운 몬스터를 발견하세요</string>
+        <key>ui.collection.cell.impossible</key>
+        <string>잠김</string>
+        <key>ui.collection.cell.complete</key>
+        <string>구입완료</string>
+        <key>ui.stage.title</key>
+        <string>스테이지 {0}</string>
+        <key>ui.stage.start</key>
+        <string>START</string>
+        <key>ui.stage.recommend</key>
+        <string>추천 전투력</string>
+        <key>ui.stage.attackpower</key>
+        <string>현재 전투력</string>
+        <key>ui.game.exit</key>
+        <string>포기하기</string>
+        <key>ui.stage.ad.power</key>
+        <string>공격력 100% 증가</string>
+        <key>ui.stage.ad.speed</key>
+        <string>공격속도 40% 증가</string>
+        <key>ui.stage.ad.time</key>
+        <string>보스 시간 2초 증가</string>
+        <key>message.notenough.jewel</key>
+        <string>보석이 부족합니다.</string>
+        <key>message.notenough.gold</key>
+        <string>골드가 부족합니다.</string>
+        <key>ui.vip1.title</key>
+        <string>VIP PACKAGE #lcoD178FF#rco1#cc</string>
+        <key>ui.vip2.title</key>
+        <string>VIP PACKAGE #lcoD178FF#rco2#cc</string>
+        <key>ui.delete.title</key>
+        <string>제거할 몬스터를 선택하세요</string>
+        <key>ui.delete.popup</key>
+        <string>제거 하시겠습니까?</string>
+        <key>ui.gem.popup</key>
+        <string>광고 시청 시 다음 획득 무료 보석이 증가합니다.</string>
+        <key>ui.gem.max</key>
+        <string>현재 무료 보석이 최대 수량 입니다.</string>
+        <key>ui.attendance.title</key>
+        <string>오늘의 출석 보상!</string>
+        <key>ui.dungeon.title</key>
+        <string>던전</string>
+        <key>ui.dungeon.cell.JEWEL</key>
+        <string>보석 던전</string>
+        <key>ui.dungeon.cell.GOLD</key>
+        <string>골드 던전</string>
+        <key>ui.dungeon.cell.SUMMON</key>
+        <string>소환석 던전</string>
+        <key>ui.dungeon.desc.JEWEL</key>
+        <string>보석을 추가 획득 할 수 있습니다.</string>
+        <key>ui.dungeon.desc.GOLD</key>
+        <string>골드를 추가 획득 할 수 있습니다.</string>
+        <key>ui.dungeon.desc.SUMMON</key>
+        <string>소환석을 추가 획득 할 수 있습니다.</string>
+        <key>ui.dragon.title</key>
+        <string>용의 시험 Lv {0}</string>
+        <key>ui.stage.condition</key>
+        <string>아직 사용할 수 없습니다. (스테이지 {0})</string>
+        <key>ui.upgrade.atk2.desc</key>
+        <string>해당 몬스터는 제거 되며 영구적으로 모든 몬스터의 공격력이 2배 증가 합니다.</string>
+        <key>ui.upgrade.atk2.nomonster</key>
+        <string>해당 몬스터를 보유하고 있지 않습니다.</string>
+        <key>ui.message.fireball.limit</key>
+        <string>스테이지당 {0}번 사용 가능합니다.</string>
+        <key>ui.stage.skip</key>
+        <string>터치하여 빠르게 진행하기</string>
+        <key>ui.dragonknight.title</key>
+        <string>드래곤 나이트</string>
+        <key>ui.dragonknight.summonlevel</key>
+        <string>소환 레벨</string>
+        <key>ui.dragonknight.desc</key>
+        <string>무기를 합성 할 수록 더욱 강해 집니다.</string>
+        <key>ui.dragonknight.equipment</key>
+        <string>무기</string>
+        <key>ui.dragonknight.equip</key>
+        <string>장착</string>
+        <key>ui.dragonknight.merge</key>
+        <string>합성</string>
+        <key>ui.dragonknight.grade</key>
+        <string>등급</string>
+        <key>ui.dragonknight.grade.1</key>
+        <string>일반</string>
+        <key>ui.dragonknight.grade.2</key>
+        <string>고급</string>
+        <key>ui.dragonknight.grade.3</key>
+        <string>레어</string>
+        <key>ui.dragonknight.grade.4</key>
+        <string>영웅</string>
+        <key>ui.dragonknight.grade.5</key>
+        <string>전설</string>
+        <key>ui.dragonknight.grade.6</key>
+        <string>신화</string>
+        <key>ui.dragonknight.grade.available</key>
+        <string>획득 가능 등급</string>
+        <key>ui.dragonknight.info.desc.1</key>
+        <string>무기를 소환하여 합성 할 수록 더 좋은 무기를 획득 할 수 있습니다.</string>
+        <key>ui.dragonknight.info.desc.2</key>
+        <string>무기 등급에 따라 드래곤나이트의 외형이 변경됩니다.</string>
+        <key>ui.dragonknight.info.desc.3</key>
+        <string>소환 레벨이 높을수록 상위 등급의 장비를 획득 할 확률이 증가합니다.</string>
+        <key>ui.redsummonstone</key>
+        <string>붉은 소환석</string>
+        <key>push.evening.title</key>
+        <string>저녁 지원 보상</string>
+        <key>push.evening.message</key>
+        <string>지금 접속 시 무기 소환 {0}회 가능!</string>
+        <key>push.weekend.title</key>
+        <string>주말 특급 보상</string>
+        <key>ui.monsterpass.title</key>
+        <string>몬스터 패스</string>
+        <key>ui.monsterpass.description</key>
+        <string>머지할 수록 늘어나는 보상!
+끊임없이 머지하여 특별한 보상을 획득하세요</string>
+        <key>ui.monsterpass.season</key>
+        <string>시즌 {0}</string>
+        <key>ui.monsterpass.remaintime</key>
+        <string>시즌 종료까지 남은 시간</string>
+        <key>ui.monsterpass.buy</key>
+        <string>몬스터 패스 구매</string>
+        <key>ui.shop.dailypackage</key>
+        <string>일간 패키지</string>
+        <key>ui.shop.weeklypackage</key>
+        <string>주간 패키지</string>
+        <key>ui.shop.monsthlypackage</key>
+        <string>월간 패키지</string>
+        <key>ui.shop.2xbonusevent</key>
+        <string>최초 구매 2배 보너스!</string>
+        <key>marketadd</key>
+        <string>드래곤 나이트를 성장시키세요
+전용 무기를 소환하여 화려한 외형의 드래곤 나이트를 획득하세요</string>
+        <key>ui.growth.unlock</key>
+        <string>엘리트 보상 해제</string>
+        <key>ui.growth.title</key>
+        <string>성장 지원</string>
+        <key>ui.growth.stage</key>
+        <string>스테이지</string>
+        <key>ui.growth.free</key>
+        <string>무료</string>
+        <key>ui.growth.elite</key>
+        <string>엘리트</string>
+        <key>ui.dailyreward.title</key>
+        <string>플레이 시간 보상</string>
+        <key>ui.dailyreward.time</key>
+        <string>오늘의 플레이 시간</string>
+        <key>ui.ranking.title</key>
+        <string>랭킹</string>
+        <key>ui.ranking.stage</key>
+        <string>스테이지</string>
+        <key>ui.ranking.group</key>
+        <string>그룹</string>
+        <key>ui.nickname.desc</key>
+        <string>닉네임을 입력해주세요</string>
+        <key>ui.nickname.fail</key>
+        <string>사용할 수 없는 닉네임입니다.
+특수 문자 제외, 2~8자까지 입력할 수 있습니다.</string>
+        <key>ui.network.fail</key>
+        <string>네트워크가 불안정합니다.\n잠시 후 재시도 해주세요.</string>
+        <key>.</key>
+        <string>0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ</string>
+    </dict>
+</plist>

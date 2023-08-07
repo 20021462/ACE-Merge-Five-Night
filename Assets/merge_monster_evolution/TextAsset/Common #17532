@@ -1,0 +1,135 @@
+Key,ko,en,ja,sc,tc
+ui.fever,레벨,LEVEL,LEVEL,LEVEL,LEVEL
+ui.ok,확인,OK,確認,确认,確認
+ui.cancel,닫기,NO,閉じる,数,沒有
+ui.get,얻기,GET,取得する,得到,得到
+ui.fevertime,피버 타임,FEVER TIME,フィーバータイムの,FEVER TIME,FEVER TIME
+ui.auto,AUTO,AUTO,オート,自动,自動
+ui.x2,x2,x2,X2,X2,X2
+ui.noads,광고제거,No Ads,広告なし,移除广告,觀看廣告
+ui.title.newpet,새로운 동물!,NEW ANIMAL!,ニューアニマル！,新动物！,新動物！
+ui.title.option,옵션,OPTION,オプション,选项,選項
+ui.sound,소리,Sound,サウンド,声音,聲音
+ui.vibration,진동,Vibration,バイブ,震动,震動
+ui.push,알림,Push,押す,推,推
+ui.terms,약관,Terms of use,約款,服务条款,條款
+ui.privacy,개인정보정책,Privacy Policy,プライバシーポリシー,隐私政策,隱私政策
+ui.language,언어,Language,言語,语言,語言
+ui.moregames,추천 게임,More Games,他のゲーム,其他游戏,更多遊戲
+ui.restorepurchase,구매 복구,Restore purchase,購入を復元,恢复购买,還原購買物品
+message.toomanypets,동물이 너무 많이 있습니다.,Too many animals,Too many animals,Too many animals,Too many animals
+message.cooltime,아직 사용할 수 없습니다.,Not yet available.,まだ利用できません。,暂不可用。,還不能使用。
+ui.feverreward.title,레벨업!,LEVEL UP!,レベルアップ！,等级提升！,等級提升！
+ui.upgrade.title,업그레이드,UPGRADE,アップグレード,升级,升級
+ui.upgrade.description,,,,,
+ui.vip.title,VIP 패키지,VIP PACKAGE,VIPパック,VIP 礼包,VIP套裝
+ui.vip.description,,,,,
+ui.vip,VIP,VIP,VIP,VIP,VIP
+ui.collection.title,동물 친구들,ANIMAL LIST,アニマルリスト,动物列表,動物列表
+ui.collection,PET,PET,PET,PET,PET
+message.tutorial.purchasepetbutton, , , , , 
+message.tutorial.purchase10xpetsbutton, , , , , 
+message.tutorial.autobutton, , , , , 
+message.tutorial.2xbutton, , , , , 
+message.tutorial.upgradebutton1, , , , , 
+message.tutorial.upgradebutton2,,,,,
+ui.title.gpgs,Google Play Game Services,Google Play Game Services,Google Play Game Services,Google Play Game Services,Google Play Game Services
+ui.quitgame,게임종료,Exit game,ゲーム終了,游戏结束,結束遊戲
+message.quitgame,게임을 종료하시겠습니까?,Do you want to exit the game?,ゲームを終了しますか？,确定要结束游戏吗？,請問要結束遊戲嗎？
+pet.cat,고양이,Cat,ネコ,猫,貓
+pet.chick,병아리,Chick,ひよこ,小鸡,小雞
+pet.cow,소,Cow,牛,牛,牛
+pet.crow,까마귀,Crow,カラス,乌鸦,烏鴉
+pet.deer,사슴,Deer,鹿,鹿,鹿
+pet.dog,개,Dog,犬,狗,狗
+pet.donkey,당나귀,Donkey,ロバ,驴,驢
+pet.duck,오리,Duck,アヒル,鸭,鴨
+pet.elephant,코끼리,Elephant,象,象,象
+pet.flamingo,플라밍고,Flamingo,フラミンゴ,火烈鸟,火烈鳥
+pet.fox,여우,Fox,狐,狐狸,狐狸
+pet.gazelle,가젤,Gazelle,ガゼル,羚羊,羚羊
+pet.hen,암탉,Hen,編,母鸡,母雞
+pet.hog,야생돼지,Hog,野生の豚,野猪,野豬
+pet.hornbill,코뿔새,Hornbill,サイチョウ,犀鸟,犀鳥
+pet.hyena,하이에나,Hyena,ハイエナ,鬣狗,鬣狗
+pet.ostrich,타조,Ostrich,ダチョウ,鸵鸟,鴕鳥
+pet.owl,올빼미,Owl,フクロウ,猫头鹰,貓頭鷹
+pet.parrot,앵무새,Parrot,オウム,鹦鹉,鸚鵡
+pet.ox,소,Ox,去勢牛,牛,牛
+pet.penguin,펭귄,Penguin,ペンギン,企鹅,企鵝
+pet.polarbear,북극곰,Polar Bear,ホッキョクグマ,北极熊,北極熊
+pet.rabbit,토끼,Rabbit,ウサギ,兔子,兔子
+pet.seal,바다표범,Seal,アザラシ,海狗,海狗
+pet.sheep,양,Sheep,羊,羊,羊
+pet.tortoise,거북이,Tortoise,カメ,乌龟,烏龜
+pet.walrus,바다 코끼리,Walrus,セイウチ,海象,海象
+pet.wolf,늑대,Wolf,狼,狼,狼
+pet.zebra,얼룩말,Zebra,シマウマ,斑马,斑馬
+pet.arcticfox,북극여우,Arctic Fox,ホッキョクギツネ,白狐,白狐
+pet.buffalo,버팔로,Buffalo,バッファロー,水牛,水牛
+pet.cheetah,치타,Cheetah,チーター,猎豹,獵豹
+pet.dove,흰비둘기,Dove,白い鳩,白鸽,白鴿
+pet.eagle,독수리,Eagle,ワシ,鹰,鷹
+pet.goldfish,금붕어,Goldfish,金魚,金鱼,金魚
+pet.hippo,하마,Hippo,カバ,河马,河馬
+pet.mice,쥐,Mice,ラット,鼠,鼠
+pet.pig,돼지,Pig,豚,猪,豬
+pet.pigeon,비둘기,Pigeon,鳩,鸽子,鴿子
+pet.raccoon,라쿤,Racoon,ラクーン,狸,狸
+pet.rhino,코뿔소,Rhino,サイ,犀牛,犀牛
+pet.rooster,수탉,Rooster,コック,公鸡,公雞
+pet.snake,뱀,Snake,ヘビ,蛇,蛇
+pet.snowowl,눈 올빼미,Snow Owl,目フクロウ,雪鸮,雪鴞
+pet.snowweasel,눈 족제비,Snow Weasel,目イタチ,鼬鼠,鼬鼠
+pet.alpaca,알파카,Alpaca,アルパカ,羊驼,羊駝
+pet.armadillo,아르마딜로,Armadillo,アルマジロ,犰狳,犰狳
+pet.camel,낙타,Camel,ラクダ,骆驼,駱駝
+pet.crocodile,악어,Crocodile,クロコダイル,鳄鱼,鱷魚
+pet.gorilla,고릴라,Gorilla,ゴリラ,大猩猩,大猩猩
+pet.panda,팬더,Panda,パンダ,熊猫,熊貓
+pet.peacock,공작,Peacock,孔雀,孔雀,孔雀
+pet.pelican,펠리컨,Pelican,ペリカン,鹈,鵜
+pet.redpanda,레서판다,Red Panda,レッサーパンダ,小熊猫,小熊貓
+pet.seaotter,해달,Sea Otter,ラッコ,海獭,海獺
+pet.sloth,나무늘보,Sloth,ナマケモノ,树懒,樹懶
+pet.tiger,호랑이,Tiger,虎,虎,虎
+error.message.adnotready,잠시 후 재시도 해주세요.,Please try again later.,後でもう一度お試しください。,请稍后再试。,請稍後再試。
+ui.offline.title,오프라인 보상,Offline earnings,オフライン報酬,离线收益,離線收益
+ui.daily.title,일일 보상!,DAILY REWARD!,毎日ログインボーナス!,今日签到奖励!,本日的出席獎勵!
+uicommon_purchasefail,구매 실패,Failed to purchase,購入失敗,购买失败,購買失敗
+ui.option.restoresuccess,구매 복구에 성공했습니다.,Restore purchase successful.,購入を復元できました。,恢复购买成功。,還原購買物品成功。
+ui.option.restorefail,구매 복구에 실패했습니다.,Restore purchase failed.,購入を復に失敗しました。,恢复购买失败。,還原購買物品失敗。
+uishop.buysuccess,구매에 성공했습니다.,Purchase successful.,購入できました。,购买成功。,購買成功。
+uishop.buyfail,구매에 실패했습니다.,Purchase failed.,購入に失敗しました。,购买失败。,購買失敗。
+ui.level,레벨,LEVEL,レベル,等级,等級
+ui.rating.message,"게임을 평가하고 별점을 주시면
+ 더 많고 재미있는 레벨을
+ 만드는데 도움이 됩니다!","If you review our game and give us a star rating,
+ it will help us create
+ more, better levels!","皆さんから頂いたレビューと評価は
+ より多彩なステージを作成するための力になります。","为游戏评价打分，
+ 可以解锁更多有趣的关卡！","評論遊戲且給予星數，
+ 有助於創造更多、\n更有趣的關卡！"
+ui.rating.button1,확인,OK,確認,确认,確認
+ui.rating.button2,다음에,Skip,後で,下次再说,跳過
+ui.infinite,∞,∞,∞,∞,∞
+ui.vipenabled,활성,Activated,有効化,活性,活性
+appname,머지 큐트 펫,Merge Cute Pet,Merge Cute Pet,Merge Cute Pet,Merge Cute Pet
+push.offlinetitle,오프라인 보상,OFFLINE EARNINGS,オフライン報酬,离线收益,離線收益
+push.offlinereward,오프라인 보상이 가득찼습니다. 지금 접속하세요!,Offline earnings are full. Play now!,オフライン報酬がいっぱいです。プレイしよう！,离线收益已达上限。上线畅玩吧！,離線收益已滿，馬上遊玩吧！
+push.dailytitle,일일 보상!,DAILY REWARD!,毎日ログインボーナス!,今日签到奖励!,本日的出席獎勵!
+push.dailyreward,지금 접속 시 신규 동물 획득 가능!,Login now and get NEW Animals!,今すぐログインするとニューアニマルをプレゼント差し上げます!,现在就立刻登录查看新动物吧！,現在立刻登入並看看新動物吧！
+message.pushagreement1,새로운 동물이 등장하면 알려드릴게요.,We will notify you when new animals appear.,新しいアニマルが登場したらお知らせします。,新的动物登场时告诉你,新的動物登場時告訴你
+uicommon_finish,"플레이 해주셔서 감사합니다.
+ 업데이트 예정입니다.","Thank you for playing.
+ A new update is scheduled.","プレイしてくださりありがとうございます。.
+ 今後アップデートする予定です。","感谢您的支持。
+ 游戏即将更新。","謝謝您的使用，
+ 預計將要改版。"
+ui.1petbutton.fever,피버,FEVER,フィーバー,FEVER,FEVER
+ui.second,s,s,s,s,s
+ui.goldfish.title,날으는 금붕어,Flying Goldfish,飛ぶ金魚,飞金鱼,飛金魚
+ui.goldfish.description,일정 시간마다 동물을 소환합니다.,Summon an animal at intervals.,一定時間ごとにアニマルを呼び出します,每隔一段时间就会叫出动物来。,每隔一段時間就會叫出動物來。
+ui.reset.title,처음부터 다시하기,Start Over From Beginning,最初からやり直す,从头再来,從頭再來
+ui.reset.description,특별한 장식물이 추가 됩니다.,Special decoration is added.,特別なデコレーションが追加されました。,添加了特别的装饰。,添加了特別的裝飾。
+ui.reset,다시하기,OK,確認,确认,確認

@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>mission_1_desc</key>
+        <string>Descubre {0} monstruos</string>
+        <key>mission_2_desc</key>
+        <string>Supera {0} fases</string>
+        <key>mission_3_desc</key>
+        <string>Supera fases {0} vez/veces</string>
+        <key>mission_4_desc</key>
+        <string>Invoca monstruos</string>
+        <key>mission_5_desc</key>
+        <string>Combina monstruos</string>
+        <key>mission_6_desc</key>
+        <string>Mejora</string>
+        <key>mission_7_desc</key>
+        <string>Mira el anuncio</string>
+        <key>skill_1_desc</key>
+        <string>Disminuye la velocidad de invocación</string>
+        <key>skill_2_desc</key>
+        <string>Aumenta las ranuras de invocación</string>
+        <key>passive_1_desc</key>
+        <string>Disminuye la velocidad de invocación</string>
+        <key>passive_2_desc</key>
+        <string>Aumenta las ranuras de invocación</string>
+        <key>passive_3_desc</key>
+        <string>Aumenta las ranuras de posesión</string>
+        <key>passive_4_desc</key>
+        <string>Aumenta el ataque</string>
+        <key>passive_5_desc</key>
+        <string>Aumenta la velocidad de ataque</string>
+        <key>passive_6_desc</key>
+        <string>Aumenta el tiempo del jefe</string>
+        <key>passive_7_desc</key>
+        <string>Aumenta el grado de invocación</string>
+        <key>passive_8_desc</key>
+        <string>Disminuye el tiempo de enfriamiento de la invocación automática</string>
+        <key>passive_9_desc</key>
+        <string>Aumenta el ataque x2</string>
+        <key>skill_1_desc</key>
+        <string>-{0} % de la velocidad de invocación</string>
+        <key>skill_2_desc</key>
+        <string>+{0} ranuras de invocación</string>
+        <key>skill_3_desc</key>
+        <string>-{0} ranuras de posesión</string>
+        <key>skill_4_desc</key>
+        <string>+{0} % de ataque</string>
+        <key>skill_5_desc</key>
+        <string>+{0} % de velocidad de ataque</string>
+        <key>skill_6_desc</key>
+        <string>+{0} seg. de tiempo del jefe</string>
+        <key>skill_8_desc</key>
+        <string>Invoca automáticamente cada {0} seg.</string>
+        <key>skill_9_desc</key>
+        <string>Aumenta el ataque x{0}</string>
+        <key>message.toomanypets</key>
+        <string>Hay demasiados monstruos.</string>
+        <key>message.cooltime</key>
+        <string>Todavía no está disponible.</string>
+        <key>ui.quitgame</key>
+        <string>Salir del juego</string>
+        <key>message.quitgame</key>
+        <string>¿Quieres salir del juego?</string>
+        <key>message.pushagreement1</key>
+        <string>Te avisaré cuando aparezca un nuevo monstruo.</string>
+        <key>push.offlinetitle</key>
+        <string>GANANCIAS SIN CONEXIÓN</string>
+        <key>push.offlinereward</key>
+        <string>Las ganancias sin conexión están llenas. ¡Juega ya!</string>
+        <key>push.dailytitle</key>
+        <string>¡RECOMPENSA DIARIA!</string>
+        <key>push.dailyreward</key>
+        <string>Inicia sesión para recibir 300 gemas.</string>
+        <key>ui.daily.title</key>
+        <string>¡RECOMPENSA DIARIA!</string>
+        <key>ui.offline.title</key>
+        <string>GANANCIAS SIN CONEXIÓN</string>
+        <key>ui.rating.message</key>
+        <string>Si escribes una reseña del juego y nos puntúas, 
+¡nos ayudarás a crear más niveles mejores!</string>
+        <key>ui.rating.button1</key>
+        <string>Aceptar</string>
+        <key>ui.rating.button2</key>
+        <string>Omitir</string>
+        <key>ui.ok</key>
+        <string>Aceptar</string>
+        <key>ui.no</key>
+        <string>NO</string>
+        <key>ui.cancel</key>
+        <string>NO</string>
+        <key>ui.second</key>
+        <string>s</string>
+        <key>ui.auto</key>
+        <string>AUTOMÁTICO</string>
+        <key>ui.x2</key>
+        <string>x3</string>
+        <key>ui.main.x2</key>
+        <string>x2</string>
+        <key>ui.get</key>
+        <string>OBTENER</string>
+        <key>ui.continue</key>
+        <string>CONTINUAR</string>
+        <key>ui.infinite</key>
+        <string>∞</string>
+        <key>ui.title.gpgs</key>
+        <string>Servicios de Juegos de Google Play</string>
+        <key>uishop.buysuccess</key>
+        <string>Compra realizada correctamente.</string>
+        <key>uishop.buyfail</key>
+        <string>Error al realizar la compra.</string>
+        <key>uicommon_finish</key>
+        <string>Gracias por jugar.
+Se ha programado una nueva actualización.</string>
+        <key>error.message.adnotready</key>
+        <string>Inténtalo de nuevo más tarde.</string>
+        <key>ui.option.restoresuccess</key>
+        <string>Se ha conseguido restaurar la compra.</string>
+        <key>ui.option.restorefail</key>
+        <string>No se ha podido restaurar la compra.</string>
+        <key>ui.collection.title</key>
+        <string>Monstruo</string>
+        <key>ui.title.option</key>
+        <string>OPCIÓN</string>
+        <key>ui.sound</key>
+        <string>Sonido</string>
+        <key>ui.vibration</key>
+        <string>Vibración</string>
+        <key>ui.push</key>
+        <string>Notificaciones push</string>
+        <key>ui.terms</key>
+        <string>Condiciones de uso</string>
+        <key>ui.privacy</key>
+        <string>Política de privacidad</string>
+        <key>ui.language</key>
+        <string>Idioma</string>
+        <key>ui.language.name</key>
+        <string>ESPAÑOL</string>
+        <key>ui.moregames</key>
+        <string>Más juegos</string>
+        <key>ui.restorepurchase</key>
+        <string>Restaurar la compra</string>
+        <key>ui.vipenabled</key>
+        <string>Activo</string>
+        <key>ui.vip.noads</key>
+        <string>Sin anuncios</string>
+        <key>ui.upgrade.title</key>
+        <string>MEJORAR</string>
+        <key>ui.upgrade.cell.max</key>
+        <string>MÁX.</string>
+        <key>ui.levelup.title</key>
+        <string>¡SUBE DE NIVEL!</string>
+        <key>ui.newmonster.title</key>
+        <string>¡Un nuevo monstruo!</string>
+        <key>ui.clear.title</key>
+        <string>¡SUPERADO!</string>
+        <key>ui.fail.title</key>
+        <string>FRACASO</string>
+        <key>ui.store.title</key>
+        <string>TIENDA</string>
+        <key>ui.store.onetime</key>
+        <string>Paquete de edición limitada</string>
+        <key>ui.store.buycomplete</key>
+        <string>Terminar la compra</string>
+        <key>ui.collection.epic</key>
+        <string>Épico</string>
+        <key>ui.collection.epicdesc</key>
+        <string>Monstruo con una habilidad especial</string>
+        <key>ui.collection.normal</key>
+        <string>Común</string>
+        <key>ui.collection.normaldesc</key>
+        <string>Combina para descubrir un nuevo monstruo</string>
+        <key>ui.collection.cell.impossible</key>
+        <string>BLOQUEADA</string>
+        <key>ui.collection.cell.complete</key>
+        <string>Terminar la compra</string>
+        <key>ui.stage.title</key>
+        <string>Fase {0}</string>
+        <key>ui.stage.start</key>
+        <string>EMPEZAR</string>
+        <key>ui.stage.recommend</key>
+        <string>Recomendado</string>
+        <key>ui.stage.attackpower</key>
+        <string>Poder de combate</string>
+        <key>ui.game.exit</key>
+        <string>Rendirte</string>
+        <key>ui.stage.ad.power</key>
+        <string>+100 % de ataque</string>
+        <key>ui.stage.ad.speed</key>
+        <string>+40 % de velocidad de ataque</string>
+        <key>ui.stage.ad.time</key>
+        <string>+2 seg. de tiempo del jefe</string>
+        <key>message.notenough.jewel</key>
+        <string>No hay suficientes gemas.</string>
+        <key>message.notenough.gold</key>
+        <string>No hay suficiente oro.</string>
+        <key>ui.vip1.title</key>
+        <string>PAQUETE VIP #lcoD178FF#rco1#cc</string>
+        <key>ui.vip2.title</key>
+        <string>PAQUETE VIP #lcoD178FF#rco2#cc</string>
+        <key>ui.delete.title</key>
+        <string>Selecciona el monstruo que quieres eliminar</string>
+        <key>ui.delete.popup</key>
+        <string>¿Quieres eliminarlo?</string>
+        <key>ui.gem.popup</key>
+        <string>Si ves anuncios, aumentará la cantidad de gemas gratuitas del siguiente tesoro.</string>
+        <key>ui.gem.max</key>
+        <string>Has alcanzado el número máximo de gemas gratuitas.</string>
+        <key>ui.attendance.title</key>
+        <string>¡Recompensa por jugar hoy!</string>
+        <key>ui.dungeon.title</key>
+        <string>MAZMORRA</string>
+        <key>ui.dungeon.cell.JEWEL</key>
+        <string>Mazmorra de gemas</string>
+        <key>ui.dungeon.cell.GOLD</key>
+        <string>Mazmorra de oro</string>
+        <key>ui.dungeon.cell.SUMMON</key>
+        <string>Invocar mazmorra de piedra</string>
+        <key>ui.dungeon.desc.JEWEL</key>
+        <string>Puedes obtener más gemas.</string>
+        <key>ui.dungeon.desc.GOLD</key>
+        <string>Puedes obtener más oro.</string>
+        <key>ui.dungeon.desc.SUMMON</key>
+        <string>Puedes obtener más piedras de invocación.</string>
+        <key>ui.dragon.title</key>
+        <string>Juicios de dragón de nivel {0}</string>
+        <key>ui.stage.condition</key>
+        <string>Todavía no está disponible. (Fase {0})</string>
+        <key>ui.upgrade.atk2.desc</key>
+        <string>Elimina al monstruo y dobla de forma permanente el ataque de los demás monstruos.</string>
+        <key>ui.upgrade.atk2.nomonster</key>
+        <string>No tienes ese monstruo.</string>
+        <key>ui.message.fireball.limit</key>
+        <string>Se puede usar {0} veces por fase.</string>
+        <key>ui.stage.skip</key>
+        <string>Toca para saltártelo</string>
+        <key>ui.dragonknight.title</key>
+        <string>Caballero Dragón</string>
+        <key>ui.dragonknight.summonlevel</key>
+        <string>Invocar nivel</string>
+        <key>ui.dragonknight.desc</key>
+        <string>Cuantas más armas combines, más potente será el resultado.</string>
+        <key>ui.dragonknight.equipment</key>
+        <string>Arma</string>
+        <key>ui.dragonknight.equip</key>
+        <string>Equipar</string>
+        <key>ui.dragonknight.merge</key>
+        <string>Combinar</string>
+        <key>ui.dragonknight.grade</key>
+        <string>Calidad</string>
+        <key>ui.dragonknight.grade.1</key>
+        <string>Común</string>
+        <key>ui.dragonknight.grade.2</key>
+        <string>Poco común</string>
+        <key>ui.dragonknight.grade.3</key>
+        <string>Raro</string>
+        <key>ui.dragonknight.grade.4</key>
+        <string>Heroico</string>
+        <key>ui.dragonknight.grade.5</key>
+        <string>Legendario</string>
+        <key>ui.dragonknight.grade.6</key>
+        <string>Mítico</string>
+        <key>ui.dragonknight.grade.available</key>
+        <string>Calidad disponible</string>
+        <key>ui.dragonknight.info.desc.1</key>
+        <string>Cuantas más armas invoques y combines, mejores serán las armas que consigas.</string>
+        <key>ui.dragonknight.info.desc.2</key>
+        <string>El aspecto del Caballero Dragón cambia según la clase de su arma.</string>
+        <key>ui.dragonknight.info.desc.3</key>
+        <string>Cuanto mayor sea el nivel de invocación, más oportunidades tendrás de adquirir equipamiento de gran calidad.</string>
+        <key>ui.redsummonstone</key>
+        <string>Piedra de invocación roja</string>
+        <key>push.evening.title</key>
+        <string>Recompensa de apoyo crepuscular</string>
+        <key>push.evening.message</key>
+        <string>¡Inicia sesión para obtener {0} invocaciones de armas!</string>
+        <key>push.weekend.title</key>
+        <string>Recompensa especial de fin de semana</string>
+        <key>ui.monsterpass.title</key>
+        <string>Pase de monstruo</string>
+        <key>ui.monsterpass.description</key>
+        <string>¡Cuanto más combines, mejores serán las recompensas!
+¡Sigue combinando para obtener recompensas especiales!</string>
+        <key>ui.monsterpass.season</key>
+        <string>Temporada {0}</string>
+        <key>ui.monsterpass.remaintime</key>
+        <string>Tiempo restante de la temporada</string>
+        <key>ui.monsterpass.buy</key>
+        <string>Comprar pase de monstruo</string>
+        <key>ui.shop.dailypackage</key>
+        <string>Paquete diario</string>
+        <key>ui.shop.weeklypackage</key>
+        <string>Paquete semanal</string>
+        <key>ui.shop.monsthlypackage</key>
+        <string>Paquete mensual</string>
+        <key>ui.shop.2xbonusevent</key>
+        <string>¡Bonificación doble por la primera compra!</string>
+        <key>marketadd</key>
+        <string>¡Desarrolla tu Caballero Dragón!
+¡Invoca armas exclusivas para hacerte con un Caballero Dragón chulísimo!</string>
+        <key>ui.growth.unlock</key>
+        <string>Get Elite Rewards</string>
+        <key>ui.growth.title</key>
+        <string>Growth Support</string>
+        <key>ui.growth.stage</key>
+        <string>Stage</string>
+        <key>ui.growth.free</key>
+        <string>Free</string>
+        <key>ui.growth.elite</key>
+        <string>Elite</string>
+        <key>ui.dailyreward.title</key>
+        <string>Playtime Rewards</string>
+        <key>ui.dailyreward.time</key>
+        <string>Play Time Today</string>
+        <key>ui.ranking.title</key>
+        <string>Ranking</string>
+        <key>ui.ranking.stage</key>
+        <string>Stage</string>
+        <key>ui.ranking.group</key>
+        <string>Group</string>
+        <key>ui.nickname.desc</key>
+        <string>Please enter your nickname.</string>
+        <key>ui.nickname.fail</key>
+        <string>Invalid nickname
+You can enter from 2~8 characters, excluding special characters.</string>
+        <key>ui.network.fail</key>
+        <string>Network is unstable. \nPlease try again later.</string>
+        <key>.</key>
+        <string></string>
+    </dict>
+</plist>

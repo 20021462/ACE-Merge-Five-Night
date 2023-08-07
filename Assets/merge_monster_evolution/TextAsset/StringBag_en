@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>mission_1_desc</key>
+        <string>Monster discovery {0}</string>
+        <key>mission_2_desc</key>
+        <string>Clear stage {0}</string>
+        <key>mission_3_desc</key>
+        <string>Clear stages {0} time(s)</string>
+        <key>mission_4_desc</key>
+        <string>Summon monster</string>
+        <key>mission_5_desc</key>
+        <string>Merge monster</string>
+        <key>mission_6_desc</key>
+        <string>Upgrade</string>
+        <key>mission_7_desc</key>
+        <string>View ad</string>
+        <key>skill_1_desc</key>
+        <string>Decreases summon SPD</string>
+        <key>skill_2_desc</key>
+        <string>Increases summon slots</string>
+        <key>passive_1_desc</key>
+        <string>Decreases summon SPD</string>
+        <key>passive_2_desc</key>
+        <string>Increases summon slots</string>
+        <key>passive_3_desc</key>
+        <string>Increases possession slots</string>
+        <key>passive_4_desc</key>
+        <string>Increases ATK</string>
+        <key>passive_5_desc</key>
+        <string>Increases ATK SPD</string>
+        <key>passive_6_desc</key>
+        <string>Increases boss time</string>
+        <key>passive_7_desc</key>
+        <string>Increases summon grade</string>
+        <key>passive_8_desc</key>
+        <string>Decreases auto summon cooldown</string>
+        <key>passive_9_desc</key>
+        <string>Increases ATK 2</string>
+        <key>skill_1_desc</key>
+        <string>-{0}% summon SPD</string>
+        <key>skill_2_desc</key>
+        <string>+{0} summon slots</string>
+        <key>skill_3_desc</key>
+        <string>+{0} possession slots</string>
+        <key>skill_4_desc</key>
+        <string>+{0}% ATK</string>
+        <key>skill_5_desc</key>
+        <string>+{0}% ATK SPD</string>
+        <key>skill_6_desc</key>
+        <string>+{0}s boss time</string>
+        <key>skill_8_desc</key>
+        <string>Auto summons every {0} sec</string>
+        <key>skill_9_desc</key>
+        <string>Increases ATK x {0}</string>
+        <key>message.toomanypets</key>
+        <string>There are too many monsters.</string>
+        <key>message.cooltime</key>
+        <string>Not yet available.</string>
+        <key>ui.quitgame</key>
+        <string>Exit game</string>
+        <key>message.quitgame</key>
+        <string>Do you want to exit the game?</string>
+        <key>message.pushagreement1</key>
+        <string>I’ll let you know when a new monster appears.</string>
+        <key>push.offlinetitle</key>
+        <string>OFFLINE EARNINGS</string>
+        <key>push.offlinereward</key>
+        <string>Offline earnings are full. Play now!</string>
+        <key>push.dailytitle</key>
+        <string>DAILY REWARD!</string>
+        <key>push.dailyreward</key>
+        <string>Login now for 300 gems.</string>
+        <key>ui.daily.title</key>
+        <string>DAILY REWARD!</string>
+        <key>ui.offline.title</key>
+        <string>OFFLINE EARNINGS</string>
+        <key>ui.rating.message</key>
+        <string>If you review our game and give us a star rating, 
+it will help us create more, better levels!</string>
+        <key>ui.rating.button1</key>
+        <string>OK</string>
+        <key>ui.rating.button2</key>
+        <string>Skip</string>
+        <key>ui.ok</key>
+        <string>OK</string>
+        <key>ui.no</key>
+        <string>NO</string>
+        <key>ui.cancel</key>
+        <string>NO</string>
+        <key>ui.second</key>
+        <string>s</string>
+        <key>ui.auto</key>
+        <string>AUTO</string>
+        <key>ui.x2</key>
+        <string>x3</string>
+        <key>ui.main.x2</key>
+        <string>x2</string>
+        <key>ui.get</key>
+        <string>GET</string>
+        <key>ui.continue</key>
+        <string>CONTINUE</string>
+        <key>ui.infinite</key>
+        <string>∞</string>
+        <key>ui.title.gpgs</key>
+        <string>Google Play Game Services</string>
+        <key>uishop.buysuccess</key>
+        <string>Purchase successful.</string>
+        <key>uishop.buyfail</key>
+        <string>Purchase failed.</string>
+        <key>uicommon_finish</key>
+        <string>Thank you for playing.
+A new update is scheduled.</string>
+        <key>error.message.adnotready</key>
+        <string>Please try again later.</string>
+        <key>ui.option.restoresuccess</key>
+        <string>Restore purchase successful.</string>
+        <key>ui.option.restorefail</key>
+        <string>Restore purchase failed.</string>
+        <key>ui.collection.title</key>
+        <string>Monster</string>
+        <key>ui.title.option</key>
+        <string>OPTION</string>
+        <key>ui.sound</key>
+        <string>Sound</string>
+        <key>ui.vibration</key>
+        <string>Vibration</string>
+        <key>ui.push</key>
+        <string>Push</string>
+        <key>ui.terms</key>
+        <string>Terms of use</string>
+        <key>ui.privacy</key>
+        <string>Privacy Policy</string>
+        <key>ui.language</key>
+        <string>Language</string>
+        <key>ui.language.name</key>
+        <string>ENGLISH</string>
+        <key>ui.moregames</key>
+        <string>More Games</string>
+        <key>ui.restorepurchase</key>
+        <string>Restore purchase</string>
+        <key>ui.vipenabled</key>
+        <string>Activated</string>
+        <key>ui.vip.noads</key>
+        <string>No Ads</string>
+        <key>ui.upgrade.title</key>
+        <string>UPGRADE</string>
+        <key>ui.upgrade.cell.max</key>
+        <string>MAX</string>
+        <key>ui.levelup.title</key>
+        <string>LEVEL UP!</string>
+        <key>ui.newmonster.title</key>
+        <string>A new monster!</string>
+        <key>ui.clear.title</key>
+        <string>CLEAR!</string>
+        <key>ui.fail.title</key>
+        <string>FAILED</string>
+        <key>ui.store.title</key>
+        <string>STORE</string>
+        <key>ui.store.onetime</key>
+        <string>Limited Package</string>
+        <key>ui.store.buycomplete</key>
+        <string>Complete purchase</string>
+        <key>ui.collection.epic</key>
+        <string>Epic</string>
+        <key>ui.collection.epicdesc</key>
+        <string>Monster with a special ability</string>
+        <key>ui.collection.normal</key>
+        <string>Common</string>
+        <key>ui.collection.normaldesc</key>
+        <string>Merge to discover a new monster</string>
+        <key>ui.collection.cell.impossible</key>
+        <string>LOCK</string>
+        <key>ui.collection.cell.complete</key>
+        <string>Complete purchase</string>
+        <key>ui.stage.title</key>
+        <string>Stage {0}</string>
+        <key>ui.stage.start</key>
+        <string>START</string>
+        <key>ui.stage.recommend</key>
+        <string>Recommended</string>
+        <key>ui.stage.attackpower</key>
+        <string>Combat Power</string>
+        <key>ui.game.exit</key>
+        <string>Give up</string>
+        <key>ui.stage.ad.power</key>
+        <string>+100% ATK</string>
+        <key>ui.stage.ad.speed</key>
+        <string>+40% ATK SPD</string>
+        <key>ui.stage.ad.time</key>
+        <string>+2s boss time</string>
+        <key>message.notenough.jewel</key>
+        <string>Not enough gems.</string>
+        <key>message.notenough.gold</key>
+        <string>Not enough golds.</string>
+        <key>ui.vip1.title</key>
+        <string>VIP PACKAGE #lcoD178FF#rco1#cc</string>
+        <key>ui.vip2.title</key>
+        <string>VIP PACKAGE #lcoD178FF#rco2#cc</string>
+        <key>ui.delete.title</key>
+        <string>Select monster to remove</string>
+        <key>ui.delete.popup</key>
+        <string>Remove?</string>
+        <key>ui.gem.popup</key>
+        <string>Watching ads increases the amount of free gems in the next trove.</string>
+        <key>ui.gem.max</key>
+        <string>You have currently reached the maximum amount of free gems.</string>
+        <key>ui.attendance.title</key>
+        <string>Reward for playing today!</string>
+        <key>ui.dungeon.title</key>
+        <string>DUNGEON</string>
+        <key>ui.dungeon.cell.JEWEL</key>
+        <string>Gem Dungeon</string>
+        <key>ui.dungeon.cell.GOLD</key>
+        <string>Gold Dungeon</string>
+        <key>ui.dungeon.cell.SUMMON</key>
+        <string>Summon Stone Dungeon</string>
+        <key>ui.dungeon.desc.JEWEL</key>
+        <string>You can obtain more Gem.</string>
+        <key>ui.dungeon.desc.GOLD</key>
+        <string>You can obtain more Gold.</string>
+        <key>ui.dungeon.desc.SUMMON</key>
+        <string>You can obtain more Summon Stone.</string>
+        <key>ui.dragon.title</key>
+        <string>Dragon Trials Lv {0}</string>
+        <key>ui.stage.condition</key>
+        <string>Not yet available. (Stage {0})</string>
+        <key>ui.upgrade.atk2.desc</key>
+        <string>Removes that monster and permanently doubles the ATK of all other monsters.</string>
+        <key>ui.upgrade.atk2.nomonster</key>
+        <string>You do not have that monster.</string>
+        <key>ui.message.fireball.limit</key>
+        <string>Can be used {0} times per stage.</string>
+        <key>ui.stage.skip</key>
+        <string>Tap to skip</string>
+        <key>ui.dragonknight.title</key>
+        <string>Dragon Knight</string>
+        <key>ui.dragonknight.summonlevel</key>
+        <string>Summon Level</string>
+        <key>ui.dragonknight.desc</key>
+        <string>The more you combine weapons, the stronger the output.</string>
+        <key>ui.dragonknight.equipment</key>
+        <string>Weapon</string>
+        <key>ui.dragonknight.equip</key>
+        <string>Equip</string>
+        <key>ui.dragonknight.merge</key>
+        <string>Merge</string>
+        <key>ui.dragonknight.grade</key>
+        <string>Grade</string>
+        <key>ui.dragonknight.grade.1</key>
+        <string>Common</string>
+        <key>ui.dragonknight.grade.2</key>
+        <string>Uncommon</string>
+        <key>ui.dragonknight.grade.3</key>
+        <string>Rare</string>
+        <key>ui.dragonknight.grade.4</key>
+        <string>Heroic</string>
+        <key>ui.dragonknight.grade.5</key>
+        <string>Legendary</string>
+        <key>ui.dragonknight.grade.6</key>
+        <string>Mythic</string>
+        <key>ui.dragonknight.grade.available</key>
+        <string>Grade available</string>
+        <key>ui.dragonknight.info.desc.1</key>
+        <string>The more you summon and combine weapons, the better the weapons you will acquire.</string>
+        <key>ui.dragonknight.info.desc.2</key>
+        <string>The Dragon Knight's appearance changes depending on its weapon class.</string>
+        <key>ui.dragonknight.info.desc.3</key>
+        <string>The higher the summon level, the better your chances of acquiring high-grade equipment.</string>
+        <key>ui.redsummonstone</key>
+        <string>Red Summonstone</string>
+        <key>push.evening.title</key>
+        <string>Evening Support Reward</string>
+        <key>push.evening.message</key>
+        <string>Log in now to get {0} weapon summons!</string>
+        <key>push.weekend.title</key>
+        <string>Weekend Special Reward</string>
+        <key>ui.monsterpass.title</key>
+        <string>Monster Pass</string>
+        <key>ui.monsterpass.description</key>
+        <string>The more you merge, the better your rewards!
+Keep on merging to get special rewards!</string>
+        <key>ui.monsterpass.season</key>
+        <string>Season {0}</string>
+        <key>ui.monsterpass.remaintime</key>
+        <string>Season time remaining</string>
+        <key>ui.monsterpass.buy</key>
+        <string>Buy Monster Pass</string>
+        <key>ui.shop.dailypackage</key>
+        <string>Daily Package</string>
+        <key>ui.shop.weeklypackage</key>
+        <string>Weekly Package</string>
+        <key>ui.shop.monsthlypackage</key>
+        <string>Monthly Package</string>
+        <key>ui.shop.2xbonusevent</key>
+        <string>First Purchase Double Bonus!</string>
+        <key>marketadd</key>
+        <string>Develop your Dragon Knight!
+Summon exclusive weapons to get a super-cool Dragon Knight!</string>
+        <key>ui.growth.unlock</key>
+        <string>Get Elite Rewards</string>
+        <key>ui.growth.title</key>
+        <string>Growth Support</string>
+        <key>ui.growth.stage</key>
+        <string>Stage</string>
+        <key>ui.growth.free</key>
+        <string>Free</string>
+        <key>ui.growth.elite</key>
+        <string>Elite</string>
+        <key>ui.dailyreward.title</key>
+        <string>Playtime Rewards</string>
+        <key>ui.dailyreward.time</key>
+        <string>Play Time Today</string>
+        <key>ui.ranking.title</key>
+        <string>Ranking</string>
+        <key>ui.ranking.stage</key>
+        <string>Stage</string>
+        <key>ui.ranking.group</key>
+        <string>Group</string>
+        <key>ui.nickname.desc</key>
+        <string>Please enter your nickname.</string>
+        <key>ui.nickname.fail</key>
+        <string>Invalid nickname
+You can enter from 2~8 characters, excluding special characters.</string>
+        <key>ui.network.fail</key>
+        <string>Network is unstable. \nPlease try again later.</string>
+        <key>.</key>
+        <string>0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ</string>
+    </dict>
+</plist>

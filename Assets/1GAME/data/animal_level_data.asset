@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c353f52b2e4e4ba99bb4461882a22e5e, type: 3}
+  m_Name: animal_level_data
+  m_EditorClassIdentifier: 
+  human_levels:
+  - damage: 8
+    hp: 16
+  - damage: 20
+    hp: 38
+  - damage: 46
+    hp: 90
+  - damage: 108
+    hp: 216
+  - damage: 256
+    hp: 512
+  - damage: 608
+    hp: 1218
+  - damage: 1448
+    hp: 2000
+  - damage: 2000
+    hp: 6000
+  - damage: 8000
+    hp: 16000
+  - damage: 18000
+    hp: 38000
+  - damage: 40000
+    hp: 84000
+  - damage: 80000
+    hp: 168000
+  - damage: 160000
+    hp: 336000
+  - damage: 200000
+    hp: 420000
+  - damage: 240000
+    hp: 504000
+  animal_levels:
+  - damage: 6
+    hp: 40
+  - damage: 14
+    hp: 94
+  - damage: 34
+    hp: 224
+  - damage: 80
+    hp: 528
+  - damage: 186
+    hp: 1244
+  - damage: 442
+    hp: 2000
+  - damage: 1042
+    hp: 6000
+  - damage: 2000
+    hp: 16000
+  - damage: 4000
+    hp: 38000
+  - damage: 12000
+    hp: 90000
+  - damage: 30000
+    hp: 200000
+  - damage: 60000
+    hp: 400000
+  - damage: 120000
+    hp: 800000
+  - damage: 150000
+    hp: 1000000
+  - damage: 180000
+    hp: 1200000
