@@ -252,21 +252,11 @@ namespace ToonyColorsPro
 				}
 
 				// Add command buffer
-				reflectionCamera.AddCommandBuffer(CameraEvent.AfterEverything, commandBufferBlur);
 			}
 
 			void ClearCommandBuffer()
 			{
-				if (reflectionCamera != null && reflectionCamera.commandBufferCount > 0)
-				{
-					reflectionCamera.RemoveCommandBuffer(CameraEvent.AfterEverything, commandBufferBlur);
-				}
-				if (commandBufferBlur != null)
-				{
-					commandBufferBlur.Clear();
-					commandBufferBlur.Release();
-					commandBufferBlur = null;
-				}
+
 			}
 
 			// --------------------------------------------------------------------------------------------------------------------------------
@@ -274,10 +264,7 @@ namespace ToonyColorsPro
 
 			public void BeginCameraRendering_Bultin(Camera camera)
 			{
-				if ((camera.cameraType & (CameraType.Game | CameraType.SceneView)) == 0)
-				{
-					return;
-				}
+		
 
 				if (reflectionCamera == null)
 				{
