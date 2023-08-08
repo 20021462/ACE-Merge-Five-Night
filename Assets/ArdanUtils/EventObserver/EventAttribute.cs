@@ -24,17 +24,6 @@ public class ContDestroyOnloadAttribute : Attribute {
     public ContDestroyOnloadAttribute(bool isTrue) => this.isTrue = isTrue;
 }
 
-
-public class EventData {
-    public EventKey message;
-
-    public EventData()
-    {
-        var attribute = (EventAttribute)GetType().GetCustomAttribute(typeof(EventAttribute), false);
-        message = attribute.key;
-    }
-
-}
 public class PlayerPrefAttribute : Attribute {
     public enum Key // Khong duoc thay doi key, key : playerpref
     {

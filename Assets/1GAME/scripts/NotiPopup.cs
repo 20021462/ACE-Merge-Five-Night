@@ -20,7 +20,7 @@ public class NotiPopup : MonoBehaviour
         this.gameObject.SetActive(true);
         main.DOKill();
         main.localPosition = Vector3.zero;
-        main.DOAnchorPosY(100, 1.2f);
+        //main.DOAnchorPosY(100, 1.2f);
         txtNoti.text = noti;
         txtNoti.color = success ? successColor : failColor;
         if (tweenDelay != null)

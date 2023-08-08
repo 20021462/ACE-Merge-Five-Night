@@ -131,13 +131,13 @@ namespace ToonyColorsPro
 			void OnEnable()
 			{
 #if UNITY_2019_3_OR_NEWER
-				isURP  = GraphicsSettings.currentRenderPipeline != null && GraphicsSettings.currentRenderPipeline.GetType().Name.Contains("Universal");
+				//isURP  = GraphicsSettings.currentRenderPipeline != null && GraphicsSettings.currentRenderPipeline.GetType().Name.Contains("Universal");
 #endif
 
 #if UNITY_2019_3_OR_NEWER
 				if (isURP)
 				{
-					RenderPipelineManager.beginCameraRendering += BeginCameraRendering_URP;
+					//RenderPipelineManager.beginCameraRendering += BeginCameraRendering_URP;
 				}
 				else
 #endif
@@ -154,7 +154,7 @@ namespace ToonyColorsPro
 #if UNITY_2019_3_OR_NEWER
 				if (isURP)
 				{
-					RenderPipelineManager.beginCameraRendering -= BeginCameraRendering_URP;
+					//RenderPipelineManager.beginCameraRendering -= BeginCameraRendering_URP;
 				}
 				else
 #endif
@@ -296,32 +296,7 @@ namespace ToonyColorsPro
 			}
 
 #if UNITY_2019_3_OR_NEWER
-			public void BeginCameraRendering_URP(ScriptableRenderContext context, Camera camera)
-			{
-				if ((camera.cameraType & (CameraType.Game | CameraType.SceneView)) == 0)
-				{
-					return;
-				}
 
-				if (reflectionCamera == null)
-				{
-					var go = new GameObject("Planar Reflection Camera", typeof(Camera));
-					reflectionCamera = go.GetComponent<Camera>();
-					reflectionCamera.enabled = false;
-					go.hideFlags = HideFlags.DontSaveInBuild | HideFlags.DontSaveInEditor;
-					//go.hideFlags = HideFlags.DontSave;
-
-					UpdateRenderTexture();
-					UpdateCommandBuffer();
-					reflectionCamera.targetTexture = reflectionRenderTexture;
-				}
-
-	#if TCP2_UNIVERSAL_RP
-				RenderPlanarReflection(context, camera);
-	#else
-				RenderPlanarReflection(camera);
-	#endif
-			}
 #endif
 
 #if TCP2_UNIVERSAL_RP

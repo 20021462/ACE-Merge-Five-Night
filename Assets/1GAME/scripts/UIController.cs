@@ -271,37 +271,6 @@ public class UIController : MonoBehaviour
         else
         {
             instace = this;
-
-            if (Application.internetReachability != NetworkReachability.NotReachable)
-            {
-                var datetime = GetNetTime();
-                if (Debug.isDebugBuild)
-                {
-                    datetime = DateTime.Now;
-                }
-
-                DOVirtual.DelayedCall(1, () =>
-                {
-                    var day = datetime.Day;
-                    var cached_day = login_day;
-                    //Debug.LogError($"curday: {day} cachedday: {cached_day} daycount: {day_count_from_install} daycout_claim: {day_claimed}");
-                    var not_claim_today = day == cached_day && day_claimed < day_count_from_install;
-                    if (day != cached_day || not_claim_today)
-                    {
-                        login_day = day;
-                        if (!not_claim_today)
-                        {
-                            day_count_from_install++;
-                        }
-
-                        //Debug.LogError($"countday: {day_count_from_install}");
-                        if (day_count_from_install > 0)
-                        {
-                            DailyRewardPopup.Show(day_count_from_install);
-                        }
-                    }
-                });
-            }
         }
 
         btn_add_coin.SetActive(level_unlock >= 3);
@@ -371,25 +340,6 @@ public class UIController : MonoBehaviour
         // txt_xcoin.text = "x" + IAPManager.instance.bought_xcoin;
     }
 
-    public static DateTime GetNetTime()
-    {
-        return DateTime.Now;
-        try
-        {
-            var myHttpWebRequest = (HttpWebRequest) WebRequest.Create("http://www.microsoft.com");
-            var response = myHttpWebRequest.GetResponse();
-            string todaysDates = response.Headers["date"];
-            return DateTime.ParseExact(todaysDates,
-                "ddd, dd MMM yyyy HH:mm:ss 'GMT'",
-                CultureInfo.InvariantCulture.DateTimeFormat,
-                DateTimeStyles.AssumeUniversal);
-        }
-        catch (Exception e)
-        {
-            //Debug.LogError(e.StackTrace);
-            return DateTime.Now;
-        }
-    }
 
     public void ShowSetting()
     {

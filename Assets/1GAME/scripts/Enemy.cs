@@ -307,14 +307,7 @@ public class Enemy : MonoBehaviour
         txt_money.transform.localScale = Vector3.zero;
         txt_money.transform.DOScale(0.015f, 0.5f).SetEase(Ease.Linear);
         txt_money.rectTransform.anchoredPosition = new Vector2(0, 0);
-        txt_money.rectTransform.DOAnchorPosY(1.5f, 1.2f).OnComplete(() =>
-        {
-            txt_money.transform.DOScale(0, 0.5f).OnComplete(() =>
-            {
-                txt_money.gameObject.SetActive(false);
-            });
-        });
-        text_show_at = Time.time;
+
     }
 
     public void Dead()

@@ -38,11 +38,6 @@ public class SoundControl : MonoBehaviour
 
     public void ChangeSoundVolume()
     {
-        foreach (var sound in sound_sources)
-        {
-            sound.mute = UIController.instace.sound == 0;
-        }
-        bg_source.mute = UIController.instace.sound == 0;
     }
 
     public void ChangeMusicVolume()

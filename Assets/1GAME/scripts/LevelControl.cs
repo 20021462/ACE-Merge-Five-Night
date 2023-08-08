@@ -727,8 +727,6 @@ public class LevelControl : MonoBehaviour
             return;
         }
         current_ally_hp -= damage;
-        float ratio = (float)current_ally_hp / (float)ally_hp;
-        img_ally_hp.DOFillAmount(ratio, 0.2f);
     }
 
     public void UpdateEnemyHp(long damage)
@@ -738,8 +736,6 @@ public class LevelControl : MonoBehaviour
             return;
         }
         current_enemy_hp -= damage;
-        float ratio = (float)current_enemy_hp / (float)enemy_hp;
-        img_enemy_hp.DOFillAmount(ratio, 0.2f);
     }
 
     public void BuyTrap()

@@ -77,11 +77,6 @@ public class PopupSingleton<T> : EventBehaviour where T : EventBehaviour
         {
             if (instance != null) return instance;
             bool isDontDestroy = false;
-            var att = typeof(T).GetCustomAttribute(typeof(ContDestroyOnloadAttribute));
-            if (att != null)
-            {
-                isDontDestroy = (att as ContDestroyOnloadAttribute).isTrue;
-            }
 
             var popup = Instantiate(Resources.Load<GameObject>("Popup/" + typeof(T))).GetComponent<T>();
             if (!isDontDestroy)
