@@ -151,7 +151,7 @@ public class Ally : MonoBehaviour
         Enemy enemyTarget = getNearestEnemy();
         while (true)
         {
-            refind: ;
+            //refind: ;
             float dur = attack_dur - delay;
             if (is_long_hand)
             {
@@ -167,7 +167,7 @@ public class Ally : MonoBehaviour
                 else if (enemyTarget.dead)
                 {
                     enemyTarget = getNearestEnemy();
-                    goto refind;
+                    //goto refind;
                 }
 
                 dur -= Time.deltaTime;

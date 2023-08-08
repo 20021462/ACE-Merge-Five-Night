@@ -185,7 +185,7 @@
       }
     },
     "uk.lunalabs.luna": {
-      "version": "file:../../../5.2.0/scripts",
+      "version": "file:../../../3.8.0/scripts",
       "depth": 0,
       "source": "local",
       "dependencies": {}

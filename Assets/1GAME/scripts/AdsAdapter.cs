@@ -1,7 +1,6 @@
 using System;
 using System.Collections;
 using System.Collections.Generic;
-using FMediation;
 using UnityEngine;
 
 public class AdsAdapter : MonoBehaviour
@@ -40,10 +39,6 @@ public class AdsAdapter : MonoBehaviour
     public void Init()
     {
         //if (!testAd)
-        {
-            FMediation_Adapter.bannerBackgroundColor = new Color(0, 0, 0, 0);
-            FMediation_AdaptSwitcher.Setup(true);
-        }
     }
 
     public void ShowBanner()

@@ -351,7 +351,7 @@ namespace ToonyColorsPro
 
 				reflectionCamera.targetTexture = reflectionRenderTexture;
 				reflectionCamera.cullingMask = ~(1 << this.gameObject.layer) & reflectLayers.value; // never render this object's layer
-				GL.invertCulling = true;
+				//GL.invertCulling = true;
 
 				reflectionCamera.transform.position = newpos;
 				Vector3 euler = worldCamera.transform.eulerAngles;
@@ -384,7 +384,7 @@ namespace ToonyColorsPro
 
 						var prevTarget = reflectionCamera.targetTexture;
 						reflectionCamera.targetTexture = reflectionDepthRenderTexture;
-						reflectionCamera.RenderWithShader(reflectionDepthShader, null);
+						//reflectionCamera.RenderWithShader(reflectionDepthShader, null);
 						reflectionCamera.targetTexture = prevTarget;
 						
 						blurMaterial.SetFloat(ShaderID_ReflectivePlaneY, this.transform.position.y + clipPlaneOffset);
@@ -406,7 +406,7 @@ namespace ToonyColorsPro
 				}
 
 				reflectionCamera.transform.position = oldpos;
-				GL.invertCulling = false;
+				//GL.invertCulling = false;
 
 				var materials = rend.sharedMaterials;
 				foreach (var mat in materials)

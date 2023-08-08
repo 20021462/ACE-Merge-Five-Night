@@ -2929,6 +2929,9 @@ MonoBehaviour:
   onRewind:
     m_PersistentCalls:
       m_Calls: []
+  targetIsSelf: 1
+  targetGO: {fileID: 0}
+  tweenTargetIsTargetGO: 1
   delay: 0
   duration: 1
   easeType: 1
@@ -2963,6 +2966,7 @@ MonoBehaviour:
   isFrom: 0
   isIndependentUpdate: 0
   autoKill: 1
+  autoGenerate: 1
   isActive: 1
   isValid: 1
   target: {fileID: 1518896849}
@@ -2984,6 +2988,7 @@ MonoBehaviour:
     height: 0
   endValueTransform: {fileID: 0}
   optionalBool0: 1
+  optionalBool1: 0
   optionalFloat0: 0
   optionalInt0: 0
   optionalRotationMode: 0
@@ -4796,6 +4801,9 @@ MonoBehaviour:
   onRewind:
     m_PersistentCalls:
       m_Calls: []
+  targetIsSelf: 1
+  targetGO: {fileID: 0}
+  tweenTargetIsTargetGO: 1
   delay: 0
   duration: 0.3
   easeType: 1
@@ -4830,6 +4838,7 @@ MonoBehaviour:
   isFrom: 0
   isIndependentUpdate: 0
   autoKill: 1
+  autoGenerate: 1
   isActive: 1
   isValid: 1
   target: {fileID: 7364712134694551679}
@@ -4851,6 +4860,7 @@ MonoBehaviour:
     height: 0
   endValueTransform: {fileID: 0}
   optionalBool0: 1
+  optionalBool1: 0
   optionalFloat0: 0
   optionalInt0: 0
   optionalRotationMode: 0
@@ -21619,6 +21629,9 @@ MonoBehaviour:
   onRewind:
     m_PersistentCalls:
       m_Calls: []
+  targetIsSelf: 1
+  targetGO: {fileID: 0}
+  tweenTargetIsTargetGO: 1
   delay: 0
   duration: 5
   easeType: 1
@@ -21653,6 +21666,7 @@ MonoBehaviour:
   isFrom: 0
   isIndependentUpdate: 0
   autoKill: 1
+  autoGenerate: 1
   isActive: 1
   isValid: 1
   target: {fileID: 8510798715167977272}
@@ -21674,6 +21688,7 @@ MonoBehaviour:
     height: 0
   endValueTransform: {fileID: 0}
   optionalBool0: 0
+  optionalBool1: 0
   optionalFloat0: 0
   optionalInt0: 0
   optionalRotationMode: 0
